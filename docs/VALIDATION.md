@@ -23,5 +23,5 @@ Reproduce from `video/`: `npm ci`, `npm run typecheck`, `npm run storyboards`. T
 - All six revised pages inspected individually, plus their contact sheet. Corrections made after the first render: moved the BakeBuild description into a visible side annotation, separated the web/game notes, attached the CAD clip at the paper edge, removed an unsupported arrow glyph and reduced distracting edge tabs.
 - Contact sheet and render manifest identify this as revision 2. Image outputs replace the review paths while the previous version remains in Git history (`0f251a4`).
 - Reusable `Scrap`, `Washi`, `Clip`, `Stamp`, `Underline`, `Tag` and `PencilRoute` components add deterministic, static collage materials. No original uploaded image files changed.
-- New reference images could not be located in fetched branches or shared files; design follows the written refinement brief. Jame Gam retains the supplied low-resolution screenshot.
+- The three reference images arrived in remote commit `aa89cc3` during work. The local refinement commit was rebased onto those uploads without changing them. All three were visually studied, and original ticket fragments were added to scenes 3–5 to complement the layered paper and sticker arrangements. Jame Gam retains the supplied low-resolution screenshot.
 - No Phase B animation, MP4 or merge into main.

@@ -1,5 +1,5 @@
 import {Box,Hand,Tape,TornPaper,Mountains,Star,DrawnArrow,AssetSlot,PolaroidCard,Sketch,NotebookPage,Sticker,CheckItem,red,sage} from './components';
-import {Scrap,Washi,Clip,Stamp,Underline,Tag,PencilRoute,colors} from './collage';
+import {Scrap,Washi,Clip,Stamp,Underline,Tag,PencilRoute,Ticket,colors} from './collage';
 
 export const Hook=()=> <NotebookPage n={1}>
 <Box x={108} y={260} rotate={-3}><Hand size={44}>A notebook. A few ideas. A whole city.</Hand></Box>
@@ -28,7 +28,7 @@ export const Meet=()=> <NotebookPage n={2}>
 </NotebookPage>;
 
 export const Projects=()=> <NotebookPage n={3}>
-<Box x={96} y={267} w={810}><div className="display" style={{fontSize:109}}>LESS TALK.<br/><span style={{color:red}}>MORE MAKING.</span></div></Box><Washi x={714} y={300} w={180} rotate={14} color={colors.pink}/>
+<Box x={96} y={267} w={810}><div className="display" style={{fontSize:109}}>LESS TALK.<br/><span style={{color:red}}>MORE MAKING.</span></div></Box><Box x={737} y={276} w={183} rotate={7}><Ticket title="IDEA FILE" detail="01 / 02 / 03" color={colors.pink}/></Box><Washi x={790} y={263} w={98} rotate={-8} color={colors.blue}/>
 <Box x={98} y={513} w={650} rotate={2}><Scrap color={colors.blue} height={370}/></Box>
 <Box x={110} y={497} w={630} rotate={-4}><PolaroidCard asset="boba" title="01 / Boba Drops" caption="A member-made website" height={250}/></Box>
 <Box x={725} y={565} w={180} rotate={8}><Scrap color={colors.yellow}><Hand size={31}>idea →<br/>website!</Hand></Scrap></Box>
@@ -47,6 +47,7 @@ export const Create=()=> <NotebookPage n={4}>
 <Box x={105} y={265}><div className="display" style={{fontSize:105}}>WHAT WILL<br/><span style={{color:red}}>YOU MAKE?</span></div></Box>
 <Box x={610} y={309} w={295} rotate={7}><Scrap color={colors.yellow}><Hand size={35}>ideas for<br/>a rainy day...</Hand><Star size={45}/></Scrap></Box>
 <Box x={110} y={515}><Hand size={37}>Start anywhere. Follow your curiosity.</Hand></Box>
+<Box x={756} y={604} w={155} rotate={-6}><Ticket title="TRY THIS" detail="a little experiment"/></Box>
 <Box x={125} y={628} w={390} rotate={-9}><Idea kind={0} title="Coding" note="one line at a time" color={colors.blue} height={252}/><Tape x={80}/></Box>
 <Box x={468} y={700} w={448} rotate={5}><Idea kind={1} title="Web development" note="put your idea online" height={260}/><Washi x={240} y={-15} color={colors.pink}/></Box>
 <Box x={92} y={945} w={490} rotate={-3}><Idea kind={2} title="Game development" note="make a world of your own" color={colors.pink} height={265}/></Box>
@@ -67,6 +68,7 @@ export const Opportunities=()=> <NotebookPage n={5}>
 <Box x={102} y={552} w={720} rotate={-4}><Scrap pattern="ruled"><div className="label" style={{color:red,fontSize:23}}>AT HACKISTAN</div><Hand size={56}>Learn by doing.</Hand><div style={{fontSize:36,lineHeight:1.55}}><CheckItem checked>Hands-on workshops</CheckItem><CheckItem checked>Make things together</CheckItem><CheckItem>Your next project</CheckItem></div></Scrap><Tape x={50}/></Box>
 <Box x={755} y={625} w={175} rotate={12}><Sticker asset="journal" label="Journpheus" height={240}/></Box>
 <Box x={137} y={930} w={385} rotate={-7}><Tag color={colors.pink}>Keep a project notebook.</Tag></Box>
+<Box x={615} y={938} w={267} rotate={6}><Ticket title="MAKE / KEEP / SHARE" detail="notes for the next project" color={colors.blue}/></Box>
 <Box x={123} y={1055} w={785} rotate={-2}><Scrap color={colors.yellow} height={570}/></Box>
 <Box x={156} y={1040} w={742} rotate={2}><Scrap color={sage} height={570}><div className="label" style={{fontSize:22}}>THROUGH HACK CLUB PROGRAMS</div><Hand size={50}>Build independently.</Hand></Scrap><Washi x={460} y={-14} color={colors.blue} pattern="check"/></Box>
 <Box x={115} y={1200} w={420} rotate={-7}><Scrap pattern="ruled" height={235}><Hand size={44}>Useful skills.<br/>A growing portfolio.</Hand><Underline width={280}/><Hand size={26}>Save what you make.</Hand></Scrap></Box>

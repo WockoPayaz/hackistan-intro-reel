@@ -15,7 +15,7 @@ The user-uploaded assets on main and the feature branch were inspected. All 19 o
 | Soldering | Supplied, used | stickers/Soldering.webp / solder |
 | Ship | Supplied, used | stickers/ship.webp / ship |
 | Member workshop photograph | Not supplied; optional, omitted | projects/ / members |
-| Instagram post references | Not supplied | branding/ |
+| Scrapbook style references | Three supplied and studied for revision 2 | references/01-colorful-scrapbook.jpg, 02-vintage-layered-journal.jpg, 03-creative-collage.jpg |
 | Approved voiceover | Not supplied; optional, default silent | audio/ |
 | Licensed music | Not supplied; optional, default silent | audio/ |
 | Final bio destination | Confirm before publication | CTA reads LINK IN BIO |
