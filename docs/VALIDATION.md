@@ -15,3 +15,13 @@ Completed on 13 November 2026. Static storyboard approval is still pending.
 - No animation, narration, music or MP4 rendered. Phase B awaits explicit storyboard approval.
 
 Reproduce from `video/`: `npm ci`, `npm run typecheck`, `npm run storyboards`. The rendering script uses installed Chromium by default; override its path with `REMOTION_BROWSER_EXECUTABLE` if needed. The render manifest records dimensions and browser path. Image files and a Markdown gallery are committed under `output/storyboards/` for direct GitHub review.
+
+
+## Revision 2 validation
+
+- TypeScript passed after the collage rewrite; six 1080 × 1920 PNGs rendered successfully with installed Chromium.
+- All six revised pages inspected individually, plus their contact sheet. Corrections made after the first render: moved the BakeBuild description into a visible side annotation, separated the web/game notes, attached the CAD clip at the paper edge, removed an unsupported arrow glyph and reduced distracting edge tabs.
+- Contact sheet and render manifest identify this as revision 2. Image outputs replace the review paths while the previous version remains in Git history (`0f251a4`).
+- Reusable `Scrap`, `Washi`, `Clip`, `Stamp`, `Underline`, `Tag` and `PencilRoute` components add deterministic, static collage materials. No original uploaded image files changed.
+- New reference images could not be located in fetched branches or shared files; design follows the written refinement brief. Jame Gam retains the supplied low-resolution screenshot.
+- No Phase B animation, MP4 or merge into main.

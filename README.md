@@ -1,10 +1,10 @@
 # Hackistan — scrapbook reel
 
-**Phase A: awaiting storyboard approval.** Six static designs, not the final animated video. All work is on `feature/hackistan-intro-reel`; nothing is merged into main.
+**Phase A, revision 2: awaiting storyboard approval.** Six static designs, not the final animated video. All work is on `feature/hackistan-intro-reel`; nothing is merged into main.
 
 ## Review in Chrome
 
-**Rendered and inspected:** all six PNGs and the contact sheet are available below.
+**Rendered and inspected:** the revised six PNGs and contact sheet are available below. This pass adds layered torn papers, patterned washi, handwritten tags, larger project images, an organic idea board and a redesigned opportunities collage.
 
 Open [the contact sheet](output/storyboards/contact-sheet.png), then tap a full-size page:
 

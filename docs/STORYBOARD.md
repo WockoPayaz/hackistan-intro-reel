@@ -16,3 +16,19 @@ These are representative finished layouts, not yet animation keyframes. No motio
 Uploaded logos, project images and authentic stickers are now used throughout. Scene 03 preserves the real projects and their framing. Scene 04 combines original notebook sketches with supplied Godot and soldering stickers. Scene 05 uses drawn ink checkboxes and the supplied Ship sticker; it omits the optional workshop photograph because none was supplied. Jame Gam remains limited by the resolution of the supplied screenshot.
 
 Reusable pieces: NotebookPage, PaperTexture, TornPaper, PolaroidCard, Tape, Sticker, Hand, DrawnArrow, Mountains, Sketch, AssetSlot. Frame-based SketchReveal, AnimatedCaption and SceneTransition belong to Phase B. Geometry and paper grain are deterministic; there is no Math.random, CSS animation or asynchronous remote font loading.
+
+
+## Revision 2 — tactile collage refinement
+
+The six pages share ivory, charcoal, rust, sage, dusty pink, pale blue and muted yellow. Recurring ruled inserts, double pencil underlines, hand-cut tags, patterned washi, paper clips and edge tabs establish one notebook world. Original branding and screenshots remain unaltered.
+
+- **01:** retains the large question and mountains, adding a taped headline scrap, layered location label and a small pencil note.
+- **02:** stacks pink/blue paper behind the logo, tucks Orpheus into the student-led note, and assembles a correspondence-style Quetta/community insert with a flag and tag.
+- **03:** enlarges all three project image areas; overlaps Polaroids and colored backing sheets, with Boba peeking out and a CAD annotation beside BakeBuild. All project images and titles remain recognizable. The prior frame remains accessible in Git history.
+- **04:** replaces equal grid tiles with staggered, varied scraps. Godot touches the game note, soldering overlaps the PCB page, and a pencil connection runs toward the 3D printing note.
+- **05:** replaces long paragraphs with a workshop checklist, a notebook tag and a grouped Hack Club program collage: skills/portfolio insert, eligibility note, official flag and Ship sticker. Journpheus joins the local checklist. The program heading and eligibility qualifications remain visible.
+- **06:** retains the logo, headline and red CTA; adds layered backing, a location tag, memo note and overlapping callbacks to the website/game projects.
+
+Reference availability: fetched both GitHub branches and inspected repository/shared files; no newly mentioned scrapbook reference images were available. This revision follows the user's detailed written direction and the existing authentic asset collection. A location was requested asynchronously; no reference-specific match is claimed.
+
+All deliverables remain static. Animation, transitions and timed captions are not implemented or approved.

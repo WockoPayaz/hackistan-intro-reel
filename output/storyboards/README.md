@@ -1,4 +1,6 @@
-# Hackistan · Phase A storyboard review
+# Hackistan · Phase A · Revision 2
+
+Refined toward a richer, layered scrapbook: larger overlapping project photographs, varied idea scraps, paper tags, patterned washi, paper clips and integrated authentic stickers.
 
 Six static pages rendered at **1080 × 1920** using Remotion and installed Chromium. No animation or final MP4 has been produced. Open any image below in GitHub to inspect it; use GitHub's download button for the original PNG.
 
@@ -23,3 +25,5 @@ Six static pages rendered at **1080 × 1920** using Remotion and installed Chrom
 ![Join Hackistan](06-join.png)
 
 **Approval checkpoint:** review the typography, paper aesthetic, layouts and authentic asset placements. Phase B starts only after your approval.
+
+[Previous storyboard for comparison](https://github.com/WockoPayaz/hackistan-intro-reel/blob/0f251a4582c08db13d5d1c41d04560cae2389b8f/output/storyboards/contact-sheet.png)

@@ -18,5 +18,8 @@ export const assets: Record<string,string|null> = {
  godot:'assets/stickers/Godot Juice.webp',
  solder:'assets/stickers/Soldering.webp',
  bobaSticker:'assets/stickers/Boba Drops.webp',
+ journal:'assets/stickers/Journpheus.webp',
+ laptops:'assets/stickers/Orpheus and Heidi Laptops.webp',
+ nest:'assets/stickers/Nest Hatched Smolpheus.webp',
  members:null,
 };

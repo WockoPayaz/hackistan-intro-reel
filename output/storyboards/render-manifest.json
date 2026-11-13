@@ -1,5 +1,6 @@
 {
   "phase": "A",
+  "revision": 2,
   "status": "awaiting approval",
   "renderer": "Remotion 4.0.543",
   "browserExecutable": "/usr/bin/chromium",
