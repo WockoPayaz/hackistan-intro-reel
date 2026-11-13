@@ -13,6 +13,6 @@ One field notebook, six pages: warm ivory graph paper, charcoal ink, terracotta 
 
 These are representative finished layouts, not yet animation keyframes. No motion has been implemented. Full narration is preserved verbatim in `video/src/config.ts`; on-page copy is a concise visual companion. No new factual claims are added. Hackistan activities and wider Hack Club programs are explicitly separated. Rewards and grants remain eligibility-based.
 
-Important placeholder limitation: scene 03's visual impact depends on the real project images. Brand and sticker placeholders also make these pages less colorful than the intended finished film. Scene 04 uses original sketches rather than invented screenshots. Scene 05 omits an optional workshop photo because none was supplied.
+Uploaded logos, project images and authentic stickers are now used throughout. Scene 03 preserves the real projects and their framing. Scene 04 combines original notebook sketches with supplied Godot and soldering stickers. Scene 05 uses drawn ink checkboxes and the supplied Ship sticker; it omits the optional workshop photograph because none was supplied. Jame Gam remains limited by the resolution of the supplied screenshot.
 
 Reusable pieces: NotebookPage, PaperTexture, TornPaper, PolaroidCard, Tape, Sticker, Hand, DrawnArrow, Mountains, Sketch, AssetSlot. Frame-based SketchReveal, AnimatedCaption and SceneTransition belong to Phase B. Geometry and paper grain are deterministic; there is no Math.random, CSS animation or asynchronous remote font loading.

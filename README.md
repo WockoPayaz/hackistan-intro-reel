@@ -4,7 +4,7 @@
 
 ## Review in Chrome
 
-**Render currently blocked:** the links below are planned outputs and will become available after the cloud browser choice is resolved. No PNGs have been produced yet.
+**Rendered and inspected:** all six PNGs and the contact sheet are available below.
 
 Open [the contact sheet](output/storyboards/contact-sheet.png), then tap a full-size page:
 
@@ -15,7 +15,7 @@ Open [the contact sheet](output/storyboards/contact-sheet.png), then tap a full-
 5. [Opportunities / 40–52 seconds](output/storyboards/05-opportunities.png)
 6. [Join / 52–60 seconds](output/storyboards/06-join.png)
 
-Each PNG is 1080 × 1920. The contact sheet is 1200 × 1510. All previews are silent. Dashed boxes identify missing authentic assets; they are not intended for the finished reel.
+Each PNG is 1080 × 1920. The contact sheet is 1200 × 1510. All previews are silent. The supplied logos, stickers and all three project screenshots are now included.
 
 **Approval checkpoint:** approve the paper, typography, palette, layout and tone, or request revisions. Animation, transitions, caption timing and MP4 export start only after approval.
 
@@ -31,6 +31,8 @@ npm run studio
 npm run typecheck
 npm run storyboards
 ```
+
+The render script uses the user-approved installed `/usr/bin/chromium`; `REMOTION_BROWSER_EXECUTABLE` can select another installed path. It bundles once and produces six full-resolution PNGs plus a contact sheet.
 
 The cloud agent manages these commands; you do not need a local terminal. Studio provides six individually selectable stills and a one-second static `StoryboardPreview` composition. It is not a 60-second animation. Generated PNGs and the contact sheet are committed so Chrome review does not depend on a running Studio server.
 

@@ -1,23 +1,29 @@
 # Asset checklist
 
-Inspection: latest main `c597e3b` contained no files. No uploaded files or Instagram references were available in the connected workspace.
+The user-uploaded assets on main and the feature branch were inspected. All 19 originals are retained byte-for-byte, organized into `public/assets/branding/`, `projects/`, and `stickers/`. No artwork was fabricated or recolored. Transparent sticker shapes and logo aspect ratios are preserved.
 
 | Asset | Status | Destination / manifest key |
 |---|---|---|
-| Authentic Hackistan geometric H logo | Missing, required | branding/ / hackistan |
-| Official Hack Club flag | Missing, required | branding/ / hackclub |
-| Boba Drops member-made website screenshot | Missing, required | projects/ / boba |
-| BakeBuild CAD / cookie cutter photograph | Missing, required | projects/ / bake |
-| Jame Gam actual gameplay screenshot | Missing, required | projects/ / jame |
-| Authentic Orpheus and other Hack Club stickers | Missing | stickers/ / orpheus, ship |
-| Member workshop photograph | Missing, optional | projects/ / members |
-| Instagram visual references | Not supplied | branding/ |
-| Approved voiceover | Missing, optional; default silent | audio/ |
-| Licensed music | Missing, optional; default silent | audio/ |
-| Final bio destination | Confirm before publication | CTA currently reads LINK IN BIO |
+| Authentic Hackistan H logo | Supplied SVG, used | branding/hackistan-h.svg / hackistan |
+| Official Hack Club flag | Supplied PNG, used | branding/flag-standalone.png / hackclub |
+| Boba Drops member website | Supplied screenshot, used | projects/boba-drops-website-screenshot.png / boba |
+| BakeBuild CAD cookie cutter | Supplied screenshot, used | projects/bakebuild-cookie-cutter-cad-screenshot.png / bake |
+| Jame Gam | Supplied screenshot, used; 347 × 195 source | projects/jame-gam-game-screenshot.png / jame |
+| Orphmoji Yippee | Supplied, used | stickers/orphmoji yippee.webp / orpheus |
+| Boba Drops sticker | Supplied, used | stickers/Boba Drops.webp / bobaSticker |
+| Godot Juice | Supplied, used | stickers/Godot Juice.webp / godot |
+| Soldering | Supplied, used | stickers/Soldering.webp / solder |
+| Ship | Supplied, used | stickers/ship.webp / ship |
+| Member workshop photograph | Not supplied; optional, omitted | projects/ / members |
+| Instagram post references | Not supplied | branding/ |
+| Approved voiceover | Not supplied; optional, default silent | audio/ |
+| Licensed music | Not supplied; optional, default silent | audio/ |
+| Final bio destination | Confirm before publication | CTA reads LINK IN BIO |
 
-Requested sticker options: Orpheus Flag, Orphmoji Yippee, Journpheus, Boba Drops, Godot Juice, Orpheus and Heidi Laptops, Soldering, OnBoard Hatching Orpheus, Ship. These have not been fabricated or substituted with lookalikes.
+Additional supplied assets remain available: Journpheus, Nest Hatched Smolpheus, Orpheus and Heidi Laptops, Pathfinder Orpheus, Single Neuron Activated, cursor, two Orpheus flag variants, and the Hack Club app-style logo. Use them selectively after visual approval.
 
-All folders are under `public/assets/`. Config paths are relative to `public/`. Leave a key null to keep its explicitly marked placeholder. The mountain silhouette, stationery shapes, coding/tool sketches and paper textures are original illustrations, not depictions of member projects. The dotted Quetta-to-community connection is conceptual, not a geographic map.
+No required logo or project placeholder remains in the rendered pages. The reusable AssetSlot component still shows a labeled placeholder when its manifest entry is null. Existing media references in `video/src/config.ts` are relative to `public/`; replacing an image requires no scene logic change.
 
-The current pages can be approved for direction before media arrives. Authentic identity and project media are needed before final visual sign-off.
+Jame Gam is low resolution and is displayed with its original framing. A larger original would improve final-video clarity. Small text within project screenshots is documentary detail, not essential reel copy. No AI enlargement or fake detail was added.
+
+Mountain silhouettes, notebook sketches, stationery and grain are original deterministic decorations. The Quetta-to-community dotted line is conceptual, not a geographic map.

@@ -1,0 +1,44 @@
+{
+  "phase": "A",
+  "status": "awaiting approval",
+  "renderer": "Remotion 4.0.543",
+  "browserExecutable": "/usr/bin/chromium",
+  "frames": [
+    {
+      "id": "01-hook",
+      "width": 1080,
+      "height": 1920,
+      "file": "01-hook.png"
+    },
+    {
+      "id": "02-meet",
+      "width": 1080,
+      "height": 1920,
+      "file": "02-meet.png"
+    },
+    {
+      "id": "03-projects",
+      "width": 1080,
+      "height": 1920,
+      "file": "03-projects.png"
+    },
+    {
+      "id": "04-create",
+      "width": 1080,
+      "height": 1920,
+      "file": "04-create.png"
+    },
+    {
+      "id": "05-opportunities",
+      "width": 1080,
+      "height": 1920,
+      "file": "05-opportunities.png"
+    },
+    {
+      "id": "06-join",
+      "width": 1080,
+      "height": 1920,
+      "file": "06-join.png"
+    }
+  ]
+}

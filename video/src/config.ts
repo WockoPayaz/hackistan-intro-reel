@@ -8,5 +8,15 @@ export const scenes = [
  {id:'06-join',title:'Your idea goes here',seconds:8,script:"You don't need to be an expert. Just bring an idea. The next thing we build could be yours. Join Hackistan."},
 ] as const;
 export const assets: Record<string,string|null> = {
- hackistan:null,hackclub:null,boba:null,bake:null,jame:null,orpheus:null,ship:null,members:null,
+ hackistan:'assets/branding/hackistan-h.svg',
+ hackclub:'assets/branding/flag-standalone.png',
+ boba:'assets/projects/boba-drops-website-screenshot.png',
+ bake:'assets/projects/bakebuild-cookie-cutter-cad-screenshot.png',
+ jame:'assets/projects/jame-gam-game-screenshot.png',
+ orpheus:'assets/stickers/orphmoji yippee.webp',
+ ship:'assets/stickers/ship.webp',
+ godot:'assets/stickers/Godot Juice.webp',
+ solder:'assets/stickers/Soldering.webp',
+ bobaSticker:'assets/stickers/Boba Drops.webp',
+ members:null,
 };
