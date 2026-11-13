@@ -1,6 +1,6 @@
-# Hackistan · Phase A · Revision 2
+# Hackistan · Phase A · Revision 3
 
-Refined toward a richer, layered scrapbook: larger overlapping project photographs, varied idea scraps, paper tags, patterned washi, paper clips and integrated authentic stickers.
+Refined for intentional composition: removed filler and repeated tabs, anchored tape to objects, tied stickers to their subjects, and simplified the opening and closing.
 
 Six static pages rendered at **1080 × 1920** using Remotion and installed Chromium. No animation or final MP4 has been produced. Open any image below in GitHub to inspect it; use GitHub's download button for the original PNG.
 

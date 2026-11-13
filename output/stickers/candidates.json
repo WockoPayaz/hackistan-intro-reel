@@ -1,0 +1,171 @@
+{
+  "newDownloads": 0,
+  "candidates": [
+    {
+      "name": "Orpheus and Heidi Laptops",
+      "scene": "04 · coding / web",
+      "file": "public/assets/stickers/Orpheus and Heidi Laptops.webp",
+      "catalogUrl": "https://stickers.hackclub.com/catalog",
+      "downloadUrl": null,
+      "status": "user-supplied; catalog verification pending",
+      "permission": "Artwork reuse terms not yet verified; confirm before public release.",
+      "width": 1200,
+      "height": 450,
+      "hasAlpha": false,
+      "sha256": "0bf145fcce106ddcb5e31d9bd0620f5c7da788c20448333d5c8f2cd069a1e732"
+    },
+    {
+      "name": "Godot Juice",
+      "scene": "03 / 04 · games",
+      "file": "public/assets/stickers/Godot Juice.webp",
+      "catalogUrl": "https://stickers.hackclub.com/catalog",
+      "downloadUrl": null,
+      "status": "user-supplied; catalog verification pending",
+      "permission": "Artwork reuse terms not yet verified; confirm before public release.",
+      "width": 700,
+      "height": 880,
+      "hasAlpha": true,
+      "sha256": "a0289df0f39c56c3566d30a8087ac627ca9bddf85b0fcbd6661f852626d6666f"
+    },
+    {
+      "name": "Boba Drops",
+      "scene": "03 · website",
+      "file": "public/assets/stickers/Boba Drops.webp",
+      "catalogUrl": "https://stickers.hackclub.com/catalog",
+      "downloadUrl": null,
+      "status": "user-supplied; catalog verification pending",
+      "permission": "Artwork reuse terms not yet verified; confirm before public release.",
+      "width": 492,
+      "height": 616,
+      "hasAlpha": true,
+      "sha256": "5a792b1427c2413ff99a130baa1b596fd43ac74042636356f712ad6b9479605d"
+    },
+    {
+      "name": "Soldering",
+      "scene": "04 · electronics",
+      "file": "public/assets/stickers/Soldering.webp",
+      "catalogUrl": "https://stickers.hackclub.com/catalog",
+      "downloadUrl": null,
+      "status": "user-supplied; catalog verification pending",
+      "permission": "Artwork reuse terms not yet verified; confirm before public release.",
+      "width": 1559,
+      "height": 1576,
+      "hasAlpha": true,
+      "sha256": "d2c8a8f1923bda79212efc69d34516b6a2b208f3f9b8a11924e558bd23d0f185"
+    },
+    {
+      "name": "Orpheus Skateboarding PCB",
+      "scene": "04 · PCB alternative",
+      "file": null,
+      "catalogUrl": "https://stickers.hackclub.com/catalog",
+      "downloadUrl": null,
+      "status": "awaiting catalog access or manual download",
+      "permission": "Artwork reuse terms not yet verified; confirm before public release."
+    },
+    {
+      "name": "Construct Orpheus",
+      "scene": "04 · physical making",
+      "file": null,
+      "catalogUrl": "https://stickers.hackclub.com/catalog",
+      "downloadUrl": null,
+      "status": "awaiting catalog access or manual download",
+      "permission": "Artwork reuse terms not yet verified; confirm before public release."
+    },
+    {
+      "name": "Journpheus",
+      "scene": "05 · project notebook",
+      "file": "public/assets/stickers/Journpheus.webp",
+      "catalogUrl": "https://stickers.hackclub.com/catalog",
+      "downloadUrl": null,
+      "status": "user-supplied; catalog verification pending",
+      "permission": "Artwork reuse terms not yet verified; confirm before public release.",
+      "width": 1204,
+      "height": 1589,
+      "hasAlpha": true,
+      "sha256": "b3b33e861d871c41707520fb7c896043562d55d2b90faf8738d262c9b50ee6ed"
+    },
+    {
+      "name": "Ship",
+      "scene": "05 · share checklist",
+      "file": "public/assets/stickers/ship.webp",
+      "catalogUrl": "https://stickers.hackclub.com/catalog",
+      "downloadUrl": null,
+      "status": "user-supplied; catalog verification pending",
+      "permission": "Artwork reuse terms not yet verified; confirm before public release.",
+      "width": 1440,
+      "height": 1440,
+      "hasAlpha": true,
+      "sha256": "d9fedcb43672ab58299e96cb6381f8988ff3a14930ae4aa0260f4f33852fa83a"
+    },
+    {
+      "name": "Orphmoji Yippee",
+      "scene": "06 · familiar character",
+      "file": "public/assets/stickers/orphmoji yippee.webp",
+      "catalogUrl": "https://stickers.hackclub.com/catalog",
+      "downloadUrl": null,
+      "status": "user-supplied; catalog verification pending",
+      "permission": "Artwork reuse terms not yet verified; confirm before public release.",
+      "width": 4784,
+      "height": 4934,
+      "hasAlpha": true,
+      "sha256": "7f9c0e0e89c6a4ff331334a512ccc2ae93c00a06fc3948fa6dbbc04a843ba285"
+    },
+    {
+      "name": "Orpheus Flag",
+      "scene": "02 · flag alternative",
+      "file": "public/assets/stickers/flag-orpheus-left.png",
+      "catalogUrl": "https://stickers.hackclub.com/catalog",
+      "downloadUrl": null,
+      "status": "user-supplied; catalog verification pending",
+      "permission": "Artwork reuse terms not yet verified; confirm before public release.",
+      "width": 560,
+      "height": 315,
+      "hasAlpha": true,
+      "sha256": "2daa8b88321d03b1cdaf37fad71edff717c47cb39610efafe988ea4e0712d3e6"
+    },
+    {
+      "name": "Game Lab",
+      "scene": "04 · game alternative",
+      "file": null,
+      "catalogUrl": "https://stickers.hackclub.com/catalog",
+      "downloadUrl": null,
+      "status": "awaiting catalog access or manual download",
+      "permission": "Artwork reuse terms not yet verified; confirm before public release."
+    },
+    {
+      "name": "Coding with Balloon",
+      "scene": "04 · coding alternative",
+      "file": null,
+      "catalogUrl": "https://stickers.hackclub.com/catalog",
+      "downloadUrl": null,
+      "status": "awaiting catalog access or manual download",
+      "permission": "Artwork reuse terms not yet verified; confirm before public release."
+    },
+    {
+      "name": "Nest Hatched Smolpheus",
+      "scene": "06 · optional beginner motif",
+      "file": "public/assets/stickers/Nest Hatched Smolpheus.webp",
+      "catalogUrl": "https://stickers.hackclub.com/catalog",
+      "downloadUrl": null,
+      "status": "user-supplied; catalog verification pending",
+      "permission": "Artwork reuse terms not yet verified; confirm before public release.",
+      "width": 2048,
+      "height": 2048,
+      "hasAlpha": true,
+      "sha256": "53dc01878bb12018db1b2a2725c2778a6e3c320037b9047ffa1c538489803fb2"
+    },
+    {
+      "name": "Pathfinder Orpheus",
+      "scene": "05 · optional exploration motif",
+      "file": "public/assets/stickers/Pathfinder Orpheus.png",
+      "catalogUrl": "https://stickers.hackclub.com/catalog",
+      "downloadUrl": null,
+      "status": "user-supplied; catalog verification pending",
+      "permission": "Artwork reuse terms not yet verified; confirm before public release.",
+      "width": 960,
+      "height": 960,
+      "hasAlpha": true,
+      "sha256": "77ce830a02c9cfbf0f04abfd21457afd10b7162f7663ba4d4acc4aab57b0f23a"
+    }
+  ]
+}

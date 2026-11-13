@@ -25,3 +25,13 @@ Reproduce from `video/`: `npm ci`, `npm run typecheck`, `npm run storyboards`. T
 - Reusable `Scrap`, `Washi`, `Clip`, `Stamp`, `Underline`, `Tag` and `PencilRoute` components add deterministic, static collage materials. No original uploaded image files changed.
 - The three reference images arrived in remote commit `aa89cc3` during work. The local refinement commit was rebased onto those uploads without changing them. All three were visually studied, and original ticket fragments were added to scenes 3–5 to complement the layered paper and sticker arrangements. Jame Gam retains the supplied low-resolution screenshot.
 - No Phase B animation, MP4 or merge into main.
+
+
+## Revision 3 — 14 November 2026
+
+- TypeScript and six-page Chromium render passed after the intentional-decoration pass.
+- All six final frames and the contact sheet were visually inspected for clipping, typography, project visibility, purposeful overlaps and notebook continuity. The separate candidate sheet was also inspected.
+- Removed shared edge tabs, unattached tape, filler tickets and redundant repeated logo/decorations; see `DECORATION_AUDIT.md` for scene-by-scene reasoning.
+- Catalog acquisition remains blocked by cloud-proxy 403 despite saved domain and user authorization. Running policy has not applied the domain. `STICKER_CURATION.md` records exact limits and usage-rights uncertainty.
+- Candidate sheet explicitly distinguishes 10 existing supplied originals, 4 pending artwork slots, and zero new downloads. This is not a claimed successful catalog acquisition.
+- Original image assets remain unchanged. No animation, MP4 or main-branch merge.

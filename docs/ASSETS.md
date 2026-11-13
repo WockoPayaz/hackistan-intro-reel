@@ -27,3 +27,7 @@ No required logo or project placeholder remains in the rendered pages. The reusa
 Jame Gam is low resolution and is displayed with its original framing. A larger original would improve final-video clarity. Small text within project screenshots is documentary detail, not essential reel copy. No AI enlargement or fake detail was added.
 
 Mountain silhouettes, notebook sketches, stationery and grain are original deterministic decorations. The Quetta-to-community dotted line is conceptual, not a geographic map.
+
+## Revision 3 curation
+
+See [STICKER_CURATION.md](STICKER_CURATION.md) and `output/stickers/candidates.json` for a 14-option selection, source/provenance metadata, four acquisition gaps and usage-rights notes. No new catalog files have been downloaded; the folder `stickers/catalog/` is reserved pending cloud network application.

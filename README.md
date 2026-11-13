@@ -1,10 +1,10 @@
 # Hackistan — scrapbook reel
 
-**Phase A, revision 2: awaiting storyboard approval.** Six static designs, not the final animated video. All work is on `feature/hackistan-intro-reel`; nothing is merged into main.
+**Phase A, revision 3: awaiting storyboard approval.** Six static designs, not the final animated video. All work is on `feature/hackistan-intro-reel`; nothing is merged into main.
 
 ## Review in Chrome
 
-**Rendered and inspected:** the revised six PNGs and contact sheet are available below. This pass adds layered torn papers, patterned washi, handwritten tags, larger project images, an organic idea board and a redesigned opportunities collage.
+**Rendered and inspected:** the revised six PNGs and contact sheet are available below. This pass removes repeated edge tabs and filler, anchors tape to objects, connects stickers to specific content, and gives the opening and closing more breathing room.
 
 Open [the contact sheet](output/storyboards/contact-sheet.png), then tap a full-size page:
 
@@ -47,3 +47,5 @@ The fonts are self-hosted through npm: Barlow Condensed (display), Kalam (annota
 The original narration and 7/8/13/12/12/8-second scene plan are preserved in `video/src/config.ts`. After approval, implement the six-scene 1800-frame timeline at 30 FPS, physical paper transitions and optional user-supplied audio/captions. Attempt cloud H.264 MP4 rendering with AAC when audio is supplied. Verify dimensions, duration, encoding and actual file existence. If cloud video rendering is unreliable, add a manually triggered GitHub Actions render workflow with a downloadable artifact. No final MP4 or Phase B workflow is claimed in Phase A.
 
 [Art direction and motion plan](docs/STORYBOARD.md) · [Validation](docs/VALIDATION.md)
+
+[Sticker curation and access status](docs/STICKER_CURATION.md) · [Sticker candidate sheet](output/stickers/candidate-sheet.png) · [Decoration audit](docs/DECORATION_AUDIT.md)

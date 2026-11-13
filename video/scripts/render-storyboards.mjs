@@ -20,6 +20,6 @@ for(const c of selected){
  console.log(`Rendered ${c.id}: ${m.width} × ${m.height}`);
 }
 const tiles=await Promise.all(selected.map(async(c,i)=>({input:await sharp(path.join(out,`${c.id}.png`)).resize(360,640).toBuffer(),left:30+(i%3)*390,top:110+Math.floor(i/3)*700})));
-const title=Buffer.from('<svg width="1200" height="90"><text x="30" y="52" fill="#f3eddf" font-family="sans-serif" font-size="29">HACKISTAN / STORYBOARD A / REVISION 2</text><text x="30" y="80" fill="#cfc7b6" font-family="sans-serif" font-size="16">01—06 · 1080 × 1920 originals · Layered collage refinement · Awaiting visual approval</text></svg>');
+const title=Buffer.from('<svg width="1200" height="90"><text x="30" y="52" fill="#f3eddf" font-family="sans-serif" font-size="29">HACKISTAN / STORYBOARD A / REVISION 3</text><text x="30" y="80" fill="#cfc7b6" font-family="sans-serif" font-size="16">01—06 · 1080 × 1920 originals · Intentional collage refinement · Awaiting visual approval</text></svg>');
 await sharp({create:{width:1200,height:1510,channels:4,background:'#30362e'}}).composite([{input:title,top:0,left:0},...tiles]).png().toFile(path.join(out,'contact-sheet.png'));
-await writeFile(path.join(out,'render-manifest.json'),JSON.stringify({phase:'A',revision:2,status:'awaiting approval',renderer:'Remotion 4.0.543',browserExecutable,frames:manifest},null,2)+'\n');
+await writeFile(path.join(out,'render-manifest.json'),JSON.stringify({phase:'A',revision:3,status:'awaiting approval',renderer:'Remotion 4.0.543',browserExecutable,frames:manifest},null,2)+'\n');
