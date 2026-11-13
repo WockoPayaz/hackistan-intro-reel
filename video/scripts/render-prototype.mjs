@@ -1,0 +1,12 @@
+import {bundle} from '@remotion/bundler';
+import {selectComposition,renderMedia} from '@remotion/renderer';
+import {mkdir,writeFile} from 'node:fs/promises';
+import path from 'node:path';
+const out=path.resolve('../output/prototype');await mkdir(out,{recursive:true});
+const serveUrl=await bundle({entryPoint:path.resolve('src/index.ts'),publicDir:path.resolve('../public')});
+const browserExecutable=process.env.REMOTION_BROWSER_EXECUTABLE||'/usr/bin/chromium';
+const composition=await selectComposition({serveUrl,id:'Scene3Prototype',browserExecutable});
+let last=-1;
+await renderMedia({serveUrl,composition,codec:'h264',pixelFormat:'yuv420p',crf:18,outputLocation:path.join(out,'scene-3-prototype.mp4'),browserExecutable,concurrency:2,onProgress:({progress})=>{const pct=Math.floor(progress*10)*10;if(pct!==last){last=pct;console.log(`Render ${pct}%`);}}});
+await writeFile(path.join(out,'render-manifest.json'),JSON.stringify({composition:composition.id,width:composition.width,height:composition.height,fps:composition.fps,frames:composition.durationInFrames,seconds:composition.durationInFrames/composition.fps,codec:'h264',requestedPixelFormat:'yuv420p',audio:'none; silent prototype',browserExecutable},null,2)+'\n');
+console.log('MP4 complete');

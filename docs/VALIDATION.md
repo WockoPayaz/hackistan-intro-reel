@@ -44,3 +44,7 @@ Reproduce from `video/`: `npm ci`, `npm run typecheck`, `npm run storyboards`. T
 - Candidate sheet regenerated with all 14 supplied images, replacing the four pending slots; metadata includes dimensions and SHA-256 hashes.
 - Scene 4 uses Coding with Balloon, Game Lab and Skateboarding PCB; scene 5 uses Construct Orpheus. Other scene layouts are unchanged.
 - No animation, MP4, or main-branch merge.
+
+## Scene 3 animation prototype
+
+See [ANIMATION_PROTOTYPE.md](ANIMATION_PROTOTYPE.md) for the motion review and exact render/playback results. Actual MP4: 13 seconds, H.264, 1080 × 1920, 30 FPS, 390 frames, silent. TypeScript, cloud render and full-file decode passed. Chromium played to the end with no media errors (four dropped display frames in the isolated browser run). No other scenes animated; no merge into main.

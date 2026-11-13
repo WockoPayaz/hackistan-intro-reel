@@ -1,8 +1,10 @@
 import {Composition,Still} from 'remotion';
 import {Hook,Meet,Projects,Create,Opportunities,Join} from './scenes';
 import './style.css';
-// Phase A: individual static pages; full timeline awaits visual approval.
+import {ProjectsPrototype} from './ProjectsPrototype';
+// Approved storyboards plus Scene 3 motion prototype; full timeline awaits prototype approval.
 export const Root=()=> <>
+ <Composition id="Scene3Prototype" component={ProjectsPrototype} width={1080} height={1920} fps={30} durationInFrames={390}/>
  <Composition id="StoryboardPreview" component={Hook} width={1080} height={1920} fps={30} durationInFrames={30}/>
  <Still id="01-hook" component={Hook} width={1080} height={1920}/>
  <Still id="02-meet" component={Meet} width={1080} height={1920}/>

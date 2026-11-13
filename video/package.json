@@ -1,1 +1,28 @@
-{"name":"hackistan-intro-reel","version":"0.1.0","private":true,"scripts":{"studio":"remotion studio src/index.ts --public-dir=../public","typecheck":"tsc --noEmit","storyboards":"node scripts/render-storyboards.mjs"},"dependencies":{"@remotion/cli":"4.0.543","@remotion/bundler":"4.0.543","@remotion/renderer":"4.0.543","remotion":"4.0.543","react":"19.2.0","react-dom":"19.2.0","@fontsource/kalam":"5.3.0","@fontsource/barlow-condensed":"5.3.0","@fontsource/dm-sans":"5.3.0"},"devDependencies":{"typescript":"5.9.3","@types/react":"19.2.2","@types/react-dom":"19.2.2","sharp":"0.34.5"}}
+{
+  "name": "hackistan-intro-reel",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.ts --public-dir=../public",
+    "typecheck": "tsc --noEmit",
+    "storyboards": "node scripts/render-storyboards.mjs",
+    "prototype": "node scripts/render-prototype.mjs"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.543",
+    "@remotion/bundler": "4.0.543",
+    "@remotion/renderer": "4.0.543",
+    "remotion": "4.0.543",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "@fontsource/kalam": "5.3.0",
+    "@fontsource/barlow-condensed": "5.3.0",
+    "@fontsource/dm-sans": "5.3.0"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3",
+    "@types/react": "19.2.2",
+    "@types/react-dom": "19.2.2",
+    "sharp": "0.34.5"
+  }
+}
