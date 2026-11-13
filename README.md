@@ -1,10 +1,10 @@
 # Hackistan — scrapbook reel
 
-**Phase A, revision 3: awaiting storyboard approval.** Six static designs, not the final animated video. All work is on `feature/hackistan-intro-reel`; nothing is merged into main.
+**Phase A, revision 4: awaiting storyboard approval.** Six static designs, not the final animated video. All work is on `feature/hackistan-intro-reel`; nothing is merged into main.
 
 ## Review in Chrome
 
-**Rendered and inspected:** the revised six PNGs and contact sheet are available below. This pass removes repeated edge tabs and filler, anchors tape to objects, connects stickers to specific content, and gives the opening and closing more breathing room.
+**Rendered and inspected:** the revised six PNGs and contact sheet are available below. This pass integrates all four newly supplied stickers into scenes 4 and 5 while preserving the other four layouts.
 
 Open [the contact sheet](output/storyboards/contact-sheet.png), then tap a full-size page:
 

@@ -12,7 +12,7 @@ The user-uploaded assets on main and the feature branch were inspected. All 19 o
 | Orphmoji Yippee | Supplied, used | stickers/orphmoji yippee.webp / orpheus |
 | Boba Drops sticker | Supplied, used | stickers/Boba Drops.webp / bobaSticker |
 | Godot Juice | Supplied, used | stickers/Godot Juice.webp / godot |
-| Soldering | Supplied, used | stickers/Soldering.webp / solder |
+| Soldering | Supplied, available alternative | stickers/Soldering.webp / solder |
 | Ship | Supplied, used | stickers/ship.webp / ship |
 | Member workshop photograph | Not supplied; optional, omitted | projects/ / members |
 | Scrapbook style references | Three supplied and studied for revision 2 | references/01-colorful-scrapbook.jpg, 02-vintage-layered-journal.jpg, 03-creative-collage.jpg |
@@ -28,6 +28,15 @@ Jame Gam is low resolution and is displayed with its original framing. A larger 
 
 Mountain silhouettes, notebook sketches, stationery and grain are original deterministic decorations. The Quetta-to-community dotted line is conceptual, not a geographic map.
 
-## Revision 3 curation
+## Revision 4 curation
 
-See [STICKER_CURATION.md](STICKER_CURATION.md) and `output/stickers/candidates.json` for a 14-option selection, source/provenance metadata, four acquisition gaps and usage-rights notes. No new catalog files have been downloaded; the folder `stickers/catalog/` is reserved pending cloud network application.
+All four previous gaps are resolved with user uploads at `b088776`. See [STICKER_CURATION.md](STICKER_CURATION.md) and `output/stickers/candidates.json` for all 14 supplied options and source metadata.
+
+| Supplied artwork | Manifest key | Placement |
+|---|---|---|
+| Coding with Balloon.webp | codingBalloon | Scene 4 coding note |
+| Game Lab.webp | gameLab | Scene 4 game note |
+| Orpheus Skateboarding PCB.webp | pcbSkate | Scene 4 PCB note |
+| Construct Orpheus.webp | construct | Scene 5 workshop checklist |
+
+Original files remain unchanged. These are user uploads, not catalog downloads. Usage terms remain unverified.

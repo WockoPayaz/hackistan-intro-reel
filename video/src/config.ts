@@ -21,5 +21,9 @@ export const assets: Record<string,string|null> = {
  journal:'assets/stickers/Journpheus.webp',
  laptops:'assets/stickers/Orpheus and Heidi Laptops.webp',
  nest:'assets/stickers/Nest Hatched Smolpheus.webp',
+ codingBalloon:'assets/stickers/Coding with Balloon.webp',
+ gameLab:'assets/stickers/Game Lab.webp',
+ pcbSkate:'assets/stickers/Orpheus Skateboarding PCB.webp',
+ construct:'assets/stickers/Construct Orpheus.webp',
  members:null,
 };

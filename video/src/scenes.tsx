@@ -42,21 +42,21 @@ export const Projects=()=> <NotebookPage n={3}>
 <Box x={155} y={1690}><Hand size={35} color={red}>Built by teenagers in Quetta.</Hand></Box>
 </NotebookPage>;
 
-const Idea=({kind,title,note,color=colors.ivory,height=250}:{kind:number;title:string;note?:string;color?:string;height?:number})=><Scrap color={color} pattern="ruled" height={height} style={{padding:23}}><Sketch kind={kind}/><Hand size={40}>{title}</Hand>{note?<Hand size={25} color="#5e665b">{note}</Hand>:null}</Scrap>;
+const Idea=({kind,title,note,color=colors.ivory,height=250,asset}:{kind:number;title:string;note?:string;color?:string;height?:number;asset?:string})=><Scrap color={color} pattern="ruled" height={height} style={{padding:23}}>{asset?<AssetSlot asset={asset} label={title} height={170}/>:<Sketch kind={kind}/>}<Hand size={40}>{title}</Hand>{note?<Hand size={25} color="#5e665b">{note}</Hand>:null}</Scrap>;
 export const Create=()=> <NotebookPage n={4}>
 <Box x={105} y={265}><div className="display" style={{fontSize:105}}>WHAT WILL<br/><span style={{color:red}}>YOU MAKE?</span></div></Box>
 
 <Box x={110} y={515}><Hand size={37}>Start anywhere. Follow your curiosity.</Hand></Box>
 
-<Box x={125} y={628} w={390} rotate={-9}><Idea kind={0} title="Coding" note="one line at a time" color={colors.blue} height={252}/><Tape x={80}/></Box>
-<Box x={307} y={600} w={230} rotate={-6}><Sticker asset="laptops" label="Orpheus and Heidi Laptops" height={90}/></Box>
+<Box x={125} y={628} w={390} rotate={-9}><Idea kind={0} title="Coding" note="one line at a time" color={colors.blue} height={300} asset="codingBalloon"/><Tape x={80}/></Box>
+
 <Box x={468} y={700} w={448} rotate={5}><Idea kind={1} title="Web development" note="put your idea online" height={260}/><Washi x={240} y={-15} color={colors.pink}/></Box>
 <Box x={92} y={945} w={490} rotate={-3}><Idea kind={2} title="Game development" note="make a world of your own" color={colors.pink} height={265}/></Box>
-<Box x={476} y={955} w={110} rotate={12}><Sticker asset="godot" label="Godot Juice" height={150}/></Box>
+<Box x={476} y={955} w={110} rotate={12}><Sticker asset="gameLab" label="Game Lab" height={120}/></Box>
 <Box x={655} y={1075} w={245} rotate={10}><Idea kind={3} title="CAD" color={colors.yellow} height={220}/><Box x={175} y={-25} rotate={-8}><Clip/></Box></Box>
 <Box x={140} y={1270} w={370} rotate={-7}><Idea kind={4} title="PCB design" color={sage} height={260}/><Washi x={70} y={-15} color={colors.blue}/></Box>
 <Box x={475} y={1372} w={420} rotate={5}><Idea kind={5} title="3D printing" note="from screen to something real" height={270}/></Box>
-<Box x={346} y={1220} w={190} rotate={-13}><Sticker asset="solder" label="Soldering" height={180}/></Box>
+<Box x={346} y={1220} w={190} rotate={-13}><Sticker asset="pcbSkate" label="Orpheus Skateboarding PCB" height={180}/></Box>
 
 <Box x={555} y={1160}><PencilRoute w={150} h={195} d="M5 5Q110 55 55 173m-16-15 16 15 18-19"/></Box>
 
@@ -67,7 +67,7 @@ export const Opportunities=()=> <NotebookPage n={5}>
 <Box x={100} y={259} w={825}><div className="display" style={{fontSize:96}}>SMALL STARTS.<br/><span style={{color:red}}>REAL POSSIBILITIES.</span></div></Box><Box x={104} y={460}><Underline width={400}/></Box>
 
 <Box x={102} y={552} w={720} rotate={-4}><Scrap pattern="ruled"><div className="label" style={{color:red,fontSize:23}}>AT HACKISTAN</div><Hand size={56}>Learn by doing.</Hand><div style={{fontSize:36,lineHeight:1.55}}><CheckItem checked>Hands-on workshops</CheckItem><CheckItem checked>Make things together</CheckItem><CheckItem>Your next project</CheckItem></div></Scrap><Tape x={50}/></Box>
-<Box x={742} y={660} w={175} rotate={6}><Sticker asset="journal" label="Journpheus" height={225}/></Box>
+<Box x={742} y={660} w={175} rotate={6}><Sticker asset="construct" label="Construct Orpheus" height={225}/></Box>
 
 
 

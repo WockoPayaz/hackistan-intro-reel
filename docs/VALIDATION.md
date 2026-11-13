@@ -35,3 +35,12 @@ Reproduce from `video/`: `npm ci`, `npm run typecheck`, `npm run storyboards`. T
 - Catalog acquisition remains blocked by cloud-proxy 403 despite saved domain and user authorization. Running policy has not applied the domain. `STICKER_CURATION.md` records exact limits and usage-rights uncertainty.
 - Candidate sheet explicitly distinguishes 10 existing supplied originals, 4 pending artwork slots, and zero new downloads. This is not a claimed successful catalog acquisition.
 - Original image assets remain unchanged. No animation, MP4 or main-branch merge.
+
+## Revision 4 — uploaded sticker integration
+
+- Fast-forwarded the feature branch to user upload commit `b088776`; all four missing files are present.
+- TypeScript passed; all six Chromium PNG renders passed at 1080 × 1920. Contact sheet regenerated at 1200 × 1510.
+- Visually inspected updated scenes 4 and 5 for readable labels, clipping, image loading and relevant sticker placement. All four uploaded artworks are integrated without source-file changes.
+- Candidate sheet regenerated with all 14 supplied images, replacing the four pending slots; metadata includes dimensions and SHA-256 hashes.
+- Scene 4 uses Coding with Balloon, Game Lab and Skateboarding PCB; scene 5 uses Construct Orpheus. Other scene layouts are unchanged.
+- No animation, MP4, or main-branch merge.

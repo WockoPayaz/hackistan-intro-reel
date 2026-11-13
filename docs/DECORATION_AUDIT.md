@@ -16,3 +16,7 @@ Graph paper, grain, punched margin and page folio establish the same notebook. R
 | 6 — clean closing | Taped logo with one backing sheet, bold message, plain handwritten invitation, red CTA and link-in-bio. A single taped Jame Gam photo and familiar Orpheus form one callback cluster. | Removed location tag, floating star, yellow invitation scrap, pink CTA backing, second project photo and filler “Your page is next” note. |
 
 Density: minimal opening → moderate identity → rich project evidence → energetic ideas → organized plans → clean closing. No Phase B timing or animation has been added.
+
+## Revision 4 placement update
+
+The four new user uploads replace selected previous placements: Coding with Balloon sits within the coding paper instead of the laptops; Game Lab replaces the scene-4 Godot sticker; Skateboarding PCB replaces Soldering at the electronics note; Construct replaces Journpheus at the workshop checklist. Scene 3 retains Godot beside the actual game. Sticker count remains controlled, and all six topic labels stay visible.

@@ -8,14 +8,14 @@ const candidates=[
  ['Godot Juice','stickers/Godot Juice.webp','03 / 04 · games'],
  ['Boba Drops','stickers/Boba Drops.webp','03 · website'],
  ['Soldering','stickers/Soldering.webp','04 · electronics'],
- ['Orpheus Skateboarding PCB',null,'04 · PCB alternative'],
- ['Construct Orpheus',null,'04 · physical making'],
+ ['Orpheus Skateboarding PCB','stickers/Orpheus Skateboarding PCB.webp','04 · PCB design'],
+ ['Construct Orpheus','stickers/Construct Orpheus.webp','05 · hands-on workshops'],
  ['Journpheus','stickers/Journpheus.webp','05 · project notebook'],
  ['Ship','stickers/ship.webp','05 · share checklist'],
  ['Orphmoji Yippee','stickers/orphmoji yippee.webp','06 · familiar character'],
  ['Orpheus Flag','stickers/flag-orpheus-left.png','02 · flag alternative'],
- ['Game Lab',null,'04 · game alternative'],
- ['Coding with Balloon',null,'04 · coding alternative'],
+ ['Game Lab','stickers/Game Lab.webp','04 · game development'],
+ ['Coding with Balloon','stickers/Coding with Balloon.webp','04 · coding'],
  ['Nest Hatched Smolpheus','stickers/Nest Hatched Smolpheus.webp','06 · optional beginner motif'],
  ['Pathfinder Orpheus','stickers/Pathfinder Orpheus.png','05 · optional exploration motif'],
 ];
@@ -31,7 +31,7 @@ for(let i=0;i<candidates.length;i++){
  else parts.push({input:Buffer.from('<svg width="320" height="230"><rect x="10" y="10" width="295" height="205" fill="none" stroke="#a59b89" stroke-dasharray="7 5"/><text x="30" y="100" font-family="sans-serif" font-size="20" fill="#706957">ARTWORK NOT FETCHED</text><text x="30" y="135" font-family="sans-serif" font-size="16" fill="#706957">Catalog access pending</text></svg>'),left,top});
  rows.push(row);
 }
-const title=Buffer.from('<svg width="1480" height="120"><text x="30" y="45" font-family="sans-serif" font-size="31" fill="#292d26">HACKISTAN · STICKER CURATION / 14 OPTIONS</text><text x="30" y="80" font-family="sans-serif" font-size="20" fill="#7b4937">10 existing supplied originals · 4 awaiting catalog access · 0 new downloads</text><text x="30" y="108" font-family="sans-serif" font-size="16" fill="#706957">Review sheet, not an instruction to place all candidates. Original artwork preserved.</text></svg>');
+const title=Buffer.from('<svg width="1480" height="120"><text x="30" y="45" font-family="sans-serif" font-size="31" fill="#292d26">HACKISTAN · STICKER CURATION / 14 OPTIONS</text><text x="30" y="80" font-family="sans-serif" font-size="20" fill="#7b4937">14 supplied artworks · All four missing stickers received · 0 catalog downloads</text><text x="30" y="108" font-family="sans-serif" font-size="16" fill="#706957">Review sheet, not an instruction to place all candidates. Original artwork preserved.</text></svg>');
 await sharp({create:{width:1480,height:1560,channels:4,background:'#f1ecdf'}}).composite([{input:title,left:0,top:0},...parts]).png().toFile(path.join(out,'candidate-sheet.png'));
 await fs.writeFile(path.join(out,'candidates.json'),JSON.stringify({newDownloads:0,candidates:rows},null,2)+'\n');
-console.log('14 candidates: 10 supplied images, 4 clearly labeled unavailable slots; no new downloads.');
+console.log('14 supplied artworks; no missing candidate files.');

@@ -55,21 +55,29 @@
     },
     {
       "name": "Orpheus Skateboarding PCB",
-      "scene": "04 · PCB alternative",
-      "file": null,
+      "scene": "04 · PCB design",
+      "file": "public/assets/stickers/Orpheus Skateboarding PCB.webp",
       "catalogUrl": "https://stickers.hackclub.com/catalog",
       "downloadUrl": null,
-      "status": "awaiting catalog access or manual download",
-      "permission": "Artwork reuse terms not yet verified; confirm before public release."
+      "status": "user-supplied; catalog verification pending",
+      "permission": "Artwork reuse terms not yet verified; confirm before public release.",
+      "width": 616,
+      "height": 540,
+      "hasAlpha": true,
+      "sha256": "97ee153dfc88e552592c62cffbe6ed898850e660971a9d2e2ef00dac162472d7"
     },
     {
       "name": "Construct Orpheus",
-      "scene": "04 · physical making",
-      "file": null,
+      "scene": "05 · hands-on workshops",
+      "file": "public/assets/stickers/Construct Orpheus.webp",
       "catalogUrl": "https://stickers.hackclub.com/catalog",
       "downloadUrl": null,
-      "status": "awaiting catalog access or manual download",
-      "permission": "Artwork reuse terms not yet verified; confirm before public release."
+      "status": "user-supplied; catalog verification pending",
+      "permission": "Artwork reuse terms not yet verified; confirm before public release.",
+      "width": 542,
+      "height": 720,
+      "hasAlpha": true,
+      "sha256": "b222e723312b86174a77a1814c1b7e6a9bb3764a56787123a37e5a45de2efc37"
     },
     {
       "name": "Journpheus",
@@ -125,21 +133,29 @@
     },
     {
       "name": "Game Lab",
-      "scene": "04 · game alternative",
-      "file": null,
+      "scene": "04 · game development",
+      "file": "public/assets/stickers/Game Lab.webp",
       "catalogUrl": "https://stickers.hackclub.com/catalog",
       "downloadUrl": null,
-      "status": "awaiting catalog access or manual download",
-      "permission": "Artwork reuse terms not yet verified; confirm before public release."
+      "status": "user-supplied; catalog verification pending",
+      "permission": "Artwork reuse terms not yet verified; confirm before public release.",
+      "width": 616,
+      "height": 616,
+      "hasAlpha": true,
+      "sha256": "f235a2041f68a6fded4ac59ce9ce0664478ffbc1924e0b49d910aa9a8ee837cc"
     },
     {
       "name": "Coding with Balloon",
-      "scene": "04 · coding alternative",
-      "file": null,
+      "scene": "04 · coding",
+      "file": "public/assets/stickers/Coding with Balloon.webp",
       "catalogUrl": "https://stickers.hackclub.com/catalog",
       "downloadUrl": null,
-      "status": "awaiting catalog access or manual download",
-      "permission": "Artwork reuse terms not yet verified; confirm before public release."
+      "status": "user-supplied; catalog verification pending",
+      "permission": "Artwork reuse terms not yet verified; confirm before public release.",
+      "width": 1384,
+      "height": 1384,
+      "hasAlpha": true,
+      "sha256": "461cdb6b9f1be296140cb1f9c24077b9521c705e799a0c93a139e7c744bea24e"
     },
     {
       "name": "Nest Hatched Smolpheus",
