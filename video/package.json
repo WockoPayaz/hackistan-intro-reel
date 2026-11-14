@@ -6,7 +6,8 @@
     "studio": "remotion studio src/index.ts --public-dir=../public",
     "typecheck": "tsc --noEmit",
     "storyboards": "node scripts/render-storyboards.mjs",
-    "prototype": "node scripts/render-prototype.mjs"
+    "prototype": "node scripts/render-prototype.mjs",
+    "reel": "node scripts/render-reel.mjs"
   },
   "dependencies": {
     "@remotion/cli": "4.0.543",

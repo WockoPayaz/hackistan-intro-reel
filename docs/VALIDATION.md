@@ -57,3 +57,14 @@ See [ANIMATION_PROTOTYPE.md](ANIMATION_PROTOTYPE.md) for the motion review and e
 - Chromium played the final file to completion with no media errors; 390 total frames, three dropped display frames in the cloud browser. Encoded frame count remains 390.
 - Final collage rests from 10.5–13 seconds. Jame Gam uses a 1.0-scale framing shift due to the supplied image's 347 × 195 resolution.
 - Original assets, static storyboard PNGs and the other five scene components are unchanged. No merge into main.
+
+## Phase B2 — full Reel, 15 November 2026
+
+- `npm run typecheck` passed. `npm run reel` rendered all six scenes and the full MP4 using installed Chromium.
+- Exact final output: 1080 × 1920, 30 FPS, 1800 H.264 frames, 60.000 seconds, 11,285,529 bytes; no audio stream.
+- Full FFmpeg decoding passed. Caption coverage is continuous across all 1800 frames, with 24 complete phrases preserving every word of the original narration. All 102 Foley marker IDs are unique and within the timeline.
+- Inspected six scene stills, encoded samples throughout the timeline, before/during/after all five page transitions, and 8 FPS detail sheets of the new paper approaches. Replaced awkward automatic caption splits with complete phrases. Corrected new paper approaches to begin outside the page before final rendering.
+- Final Chromium playback reached 60 seconds with no media errors and zero dropped display frames out of 1800.
+- Original image files, static storyboard PNGs and the standalone Scene 3 prototype output remain unchanged.
+- Voiceover/music paths are null; Foley map is empty. No audio files added or downloaded. Optional audio remains untested with supplied media because none has been supplied.
+- No merge into main. Cloud rendering succeeded; no fallback workflow needed.

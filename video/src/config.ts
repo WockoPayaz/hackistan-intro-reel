@@ -1,4 +1,4 @@
-// Phase A only: timing is planned; full animation and audio await approval.
+// Approved narration and scene durations. Audio remains optional and disabled by default.
 export const scenes = [
  {id:'01-hook',title:'An idea starts here',seconds:7,script:'What if you could build something real, right here in Quetta?'},
  {id:'02-meet',title:'Meet Hackistan',seconds:8,script:'Meet Hackistan: a student-led Hack Club in Quetta, connecting teenagers through making things, not just learning about them.'},

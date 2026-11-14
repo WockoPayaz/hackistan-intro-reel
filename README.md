@@ -1,6 +1,6 @@
 # Hackistan — scrapbook reel
 
-**Storyboard approved. Phase B: Scene 3 motion prototype revision 2 only.** [Watch/download the 13-second MP4](output/prototype/scene-3-prototype.mp4?raw=true). [Motion notes](docs/ANIMATION_PROTOTYPE.md). The remaining five scenes await prototype approval. All work is on `feature/hackistan-intro-reel`; nothing is merged into main.
+**Phase B2: full silent Reel ready for review.** [Watch/download the 60-second MP4](output/reel/hackistan-reel.mp4?raw=true). [Editing and future audio passes](docs/FULL_REEL.md). All work remains on `feature/hackistan-intro-reel`; main is unchanged.
 
 ## Review in Chrome
 
@@ -17,7 +17,7 @@ Open [the contact sheet](output/storyboards/contact-sheet.png), then tap a full-
 
 Each PNG is 1080 × 1920. The contact sheet is 1200 × 1510. All previews are silent. The supplied logos, stickers and all three project screenshots are now included.
 
-**Current checkpoint:** the storyboard is approved. Review the Scene 3 MP4 before the animation is extended to the full Reel.
+**Current checkpoint:** review the full animation. Voiceover, licensed music and Foley are reserved for subsequent approved passes.
 
 ## Project
 
@@ -34,7 +34,7 @@ npm run storyboards
 
 The render script uses the user-approved installed `/usr/bin/chromium`; `REMOTION_BROWSER_EXECUTABLE` can select another installed path. It bundles once and produces six full-resolution PNGs plus a contact sheet.
 
-The cloud agent manages these commands; you do not need a local terminal. Studio provides six individually selectable stills and a one-second static `StoryboardPreview` composition. The new `Scene3Prototype` composition runs for 13 seconds; there is no full 60-second animation. Generated PNGs and the contact sheet are committed so Chrome review does not depend on a running Studio server.
+The cloud agent manages these commands; you do not need a local terminal. Studio provides six individually selectable stills and a one-second static `StoryboardPreview` composition. Select `HackistanReel` for the full 60-second timeline or `Scene3Prototype` for the retained 13-second prototype. Generated PNGs and the contact sheet are committed so Chrome review does not depend on a running Studio server.
 
 ## Replace assets
 
@@ -42,9 +42,9 @@ See [the asset checklist](docs/ASSETS.md). Place authentic files in the indicate
 
 The fonts are self-hosted through npm: Barlow Condensed (display), Kalam (annotations), DM Sans (labels). Package license files remain installed with each font dependency. Paper grain and sketches are original deterministic SVG/CSS. There are no invented screenshots, unofficial logos, synthetic voices or downloaded music.
 
-## After prototype approval
+## Full Reel and audio preparation
 
-The original narration and 7/8/13/12/12/8-second scene plan are preserved in `video/src/config.ts`. After prototype approval, implement the six-scene 1800-frame timeline at 30 FPS, physical paper transitions and optional user-supplied audio/captions. Attempt cloud H.264 MP4 rendering with AAC when audio is supplied. Verify dimensions, duration, encoding and actual file existence. If cloud video rendering is unreliable, add a manually triggered GitHub Actions render workflow with a downloadable artifact. The Scene 3 MP4 is the only rendered motion deliverable so far.
+The 1800-frame silent Reel includes the original narration as timed subtitles. Source, render commands, optional audio paths and named Foley markers are documented in [FULL_REEL.md](docs/FULL_REEL.md). No audio clips have been added.
 
 [Art direction and motion plan](docs/STORYBOARD.md) · [Validation](docs/VALIDATION.md)
 

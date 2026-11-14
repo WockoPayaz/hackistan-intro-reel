@@ -1,0 +1,17 @@
+import {bundle} from '@remotion/bundler';
+import {selectComposition,renderMedia,renderStill} from '@remotion/renderer';
+import fs from 'node:fs';import path from 'node:path';import sharp from 'sharp';
+import ts from 'typescript';import {createRequire} from 'node:module';
+const out=path.resolve('../output/reel');fs.mkdirSync(out,{recursive:true});
+const temp=fs.mkdtempSync('/tmp/reel-data-');for(const name of ['config','reel-timing'])fs.writeFileSync(path.join(temp,name+'.js'),ts.transpileModule(fs.readFileSync('src/'+name+'.ts','utf8'),{compilerOptions:{module:ts.ModuleKind.CommonJS}}).outputText);
+const req=createRequire(import.meta.url);const {foleyMarkers,captions}=req(path.join(temp,'reel-timing.js'));const {scenes}=req(path.join(temp,'config.js'));if(captions.map(c=>c.text).join(' ')!==scenes.map(s=>s.script).join(' '))throw Error('Caption/script mismatch');
+fs.writeFileSync(path.join(out,'foley-markers.json'),JSON.stringify({fps:30,markers:foleyMarkers},null,2));fs.writeFileSync(path.join(out,'captions.json'),JSON.stringify(captions,null,2));
+const serveUrl=await bundle({entryPoint:path.resolve('src/index.ts'),publicDir:path.resolve('../public')});const browserExecutable='/usr/bin/chromium';
+const composition=await selectComposition({serveUrl,id:'HackistanReel',browserExecutable});
+const frames=[180,420,810,1170,1530,1770];
+for(let i=0;i<frames.length;i++)await renderStill({serveUrl,composition,frame:frames[i],output:path.join(out,`scene-${i+1}.png`),browserExecutable});
+const tiles=await Promise.all(frames.map(async(_,i)=>({input:await sharp(path.join(out,`scene-${i+1}.png`)).resize(270,480).toBuffer(),left:(i%3)*270,top:Math.floor(i/3)*480})));
+await sharp({create:{width:810,height:960,channels:4,background:'#f1ecdf'}}).composite(tiles).png().toFile(path.join(out,'scene-review.png'));
+if(process.argv.includes('--stills'))process.exit(0);
+let last=-1;await renderMedia({serveUrl,composition,codec:'h264',audioCodec:'aac',crf:18,pixelFormat:'yuv420p',browserExecutable,concurrency:3,outputLocation:path.join(out,'hackistan-reel.mp4'),onProgress:({progress})=>{const p=Math.floor(progress*20)*5;if(p!==last){last=p;console.log(`Reel ${p}%`);}}});
+console.log('Full Reel rendered');
