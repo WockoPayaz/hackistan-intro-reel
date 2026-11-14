@@ -48,3 +48,12 @@ Reproduce from `video/`: `npm ci`, `npm run typecheck`, `npm run storyboards`. T
 ## Scene 3 animation prototype
 
 See [ANIMATION_PROTOTYPE.md](ANIMATION_PROTOTYPE.md) for the motion review and exact render/playback results. Actual MP4: 13 seconds, H.264, 1080 × 1920, 30 FPS, 390 frames, silent. TypeScript, cloud render and full-file decode passed. Chromium played to the end with no media errors (four dropped display frames in the isolated browser run). No other scenes animated; no merge into main.
+
+## Scene 3 motion refinement — revision 2, 14 November 2026
+
+- TypeScript passed after final motion changes. Chromium render completed: 1080 × 1920, 30 FPS, H.264, 390 frames, exactly 13 seconds, silent.
+- `node scripts/review-prototype.mjs` asserted encoded metadata and decoded the entire MP4 without errors. Saved timeline samples at 2 FPS and detailed approach, tape, sticker, handwriting and return samples at 8 FPS.
+- Inspected the timeline, detail sheets and full-resolution project focus/final frames. Corrected the clipped header during BakeBuild's focus and changed the arrow to draw its curve before the arrowhead; re-rendered and inspected.
+- Chromium played the final file to completion with no media errors; 390 total frames, three dropped display frames in the cloud browser. Encoded frame count remains 390.
+- Final collage rests from 10.5–13 seconds. Jame Gam uses a 1.0-scale framing shift due to the supplied image's 347 × 195 resolution.
+- Original assets, static storyboard PNGs and the other five scene components are unchanged. No merge into main.

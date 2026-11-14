@@ -1,4 +1,5 @@
 {
+  "revision": 2,
   "composition": "Scene3Prototype",
   "width": 1080,
   "height": 1920,
@@ -6,7 +7,7 @@
   "frames": 390,
   "seconds": 13,
   "codec": "h264",
+  "requestedPixelFormat": "yuv420p",
   "audio": "none; silent prototype",
-  "browserExecutable": "/usr/bin/chromium",
-  "requestedPixelFormat": "yuv420p"
+  "browserExecutable": "/usr/bin/chromium"
 }

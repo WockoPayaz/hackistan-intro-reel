@@ -1,6 +1,6 @@
 # Hackistan — scrapbook reel
 
-**Storyboard approved. Phase B: Scene 3 motion prototype only.** [Watch/download the 13-second MP4](output/prototype/scene-3-prototype.mp4?raw=true). [Motion notes](docs/ANIMATION_PROTOTYPE.md). The remaining five scenes await prototype approval. All work is on `feature/hackistan-intro-reel`; nothing is merged into main.
+**Storyboard approved. Phase B: Scene 3 motion prototype revision 2 only.** [Watch/download the 13-second MP4](output/prototype/scene-3-prototype.mp4?raw=true). [Motion notes](docs/ANIMATION_PROTOTYPE.md). The remaining five scenes await prototype approval. All work is on `feature/hackistan-intro-reel`; nothing is merged into main.
 
 ## Review in Chrome
 
