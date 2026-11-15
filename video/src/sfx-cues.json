@@ -8,9 +8,10 @@
       "fromFrame": 15,
       "trimBeforeFrames": 0,
       "durationFrames": 20,
-      "gain": 0.14764,
+      "gain": 0.18587,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 1
     },
     {
       "id": "scene-1.quetta-mountains",
@@ -19,9 +20,10 @@
       "fromFrame": 63,
       "trimBeforeFrames": 0,
       "durationFrames": 32,
-      "gain": 0.16973,
+      "gain": 0.21368,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 1
     },
     {
       "id": "scene-1.quetta-label",
@@ -30,9 +32,10 @@
       "fromFrame": 111,
       "trimBeforeFrames": 0,
       "durationFrames": 20,
-      "gain": 1.36597,
+      "gain": 1.71965,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 1
     },
     {
       "id": "scene-2.page-turn",
@@ -41,9 +44,10 @@
       "fromFrame": 210,
       "trimBeforeFrames": 23,
       "durationFrames": 18,
-      "gain": 0.30203,
+      "gain": 0.27545,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 0.97
     },
     {
       "id": "scene-2.logo-paper.land",
@@ -52,9 +56,10 @@
       "fromFrame": 261,
       "trimBeforeFrames": 17,
       "durationFrames": 12,
-      "gain": 0.29781,
+      "gain": 0.37492,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 1
     },
     {
       "id": "scene-2.community-letter",
@@ -63,20 +68,22 @@
       "fromFrame": 327,
       "trimBeforeFrames": 14,
       "durationFrames": 18,
-      "gain": 0.36355,
+      "gain": 0.45768,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 1
     },
     {
       "id": "scene-3.page-turn",
       "assetId": "pages-turning",
       "file": "assets/audio/sfx/transitions/pages-turning.mp3",
-      "fromFrame": 450,
+      "fromFrame": 451,
       "trimBeforeFrames": 176,
       "durationFrames": 18,
       "gain": 0.17729,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 1.01
     },
     {
       "id": "scene-3.boba.land",
@@ -87,7 +94,8 @@
       "durationFrames": 10,
       "gain": 0.7469,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 1
     },
     {
       "id": "scene-3.boba.tape-peel",
@@ -96,9 +104,10 @@
       "fromFrame": 499,
       "trimBeforeFrames": 0,
       "durationFrames": 14,
-      "gain": 0.18168,
+      "gain": 0.25663,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 1
     },
     {
       "id": "scene-3.boba.tape-stick",
@@ -107,9 +116,10 @@
       "fromFrame": 514,
       "trimBeforeFrames": 0,
       "durationFrames": 4,
-      "gain": 0.18038,
+      "gain": 0.25479,
       "fadeInFrames": 1,
-      "fadeOutFrames": 2
+      "fadeOutFrames": 2,
+      "playbackRate": 1
     },
     {
       "id": "scene-3.bake.move",
@@ -118,9 +128,10 @@
       "fromFrame": 551,
       "trimBeforeFrames": 0,
       "durationFrames": 20,
-      "gain": 0.11601,
+      "gain": 0.14605,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 1
     },
     {
       "id": "scene-3.bake.land",
@@ -129,9 +140,10 @@
       "fromFrame": 572,
       "trimBeforeFrames": 17,
       "durationFrames": 10,
-      "gain": 0.29781,
+      "gain": 0.37492,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 1
     },
     {
       "id": "scene-3.bake.tape-peel",
@@ -140,9 +152,10 @@
       "fromFrame": 579,
       "trimBeforeFrames": 0,
       "durationFrames": 14,
-      "gain": 0.14534,
+      "gain": 0.2053,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 1
     },
     {
       "id": "scene-3.cad-writing",
@@ -151,9 +164,10 @@
       "fromFrame": 596,
       "trimBeforeFrames": 0,
       "durationFrames": 24,
-      "gain": 0.19095,
+      "gain": 0.24039,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 1
     },
     {
       "id": "scene-3.cad-arrow",
@@ -162,9 +176,10 @@
       "fromFrame": 620,
       "trimBeforeFrames": 0,
       "durationFrames": 18,
-      "gain": 0.12426,
+      "gain": 0.15643,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 1
     },
     {
       "id": "scene-3.jame.land",
@@ -175,7 +190,8 @@
       "durationFrames": 10,
       "gain": 0.80436,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 1
     },
     {
       "id": "scene-3.jame.tape-peel",
@@ -184,9 +200,10 @@
       "fromFrame": 665,
       "trimBeforeFrames": 0,
       "durationFrames": 14,
-      "gain": 0.14534,
+      "gain": 0.2053,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 1
     },
     {
       "id": "scene-3.godot",
@@ -195,20 +212,22 @@
       "fromFrame": 697,
       "trimBeforeFrames": 0,
       "durationFrames": 9,
-      "gain": 0.14725,
+      "gain": 0.18538,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 1
     },
     {
       "id": "scene-4.page-turn",
       "assetId": "page-turn",
       "file": "assets/audio/sfx/transitions/page-turn.mp3",
-      "fromFrame": 840,
-      "trimBeforeFrames": 23,
+      "fromFrame": 839,
+      "trimBeforeFrames": 24,
       "durationFrames": 18,
-      "gain": 0.30203,
+      "gain": 0.31993,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 1.035
     },
     {
       "id": "scene-4.coding-note",
@@ -217,9 +236,10 @@
       "fromFrame": 888,
       "trimBeforeFrames": 0,
       "durationFrames": 20,
-      "gain": 0.10546,
+      "gain": 0.13277,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 1
     },
     {
       "id": "scene-4.game-note",
@@ -228,9 +248,10 @@
       "fromFrame": 957,
       "trimBeforeFrames": 0,
       "durationFrames": 16,
-      "gain": 0.17572,
+      "gain": 0.22122,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 1
     },
     {
       "id": "scene-4.pcb-orpheus",
@@ -239,9 +260,10 @@
       "fromFrame": 1073,
       "trimBeforeFrames": 0,
       "durationFrames": 9,
-      "gain": 0.14725,
+      "gain": 0.18538,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 1
     },
     {
       "id": "scene-4.idea-arrow",
@@ -250,20 +272,22 @@
       "fromFrame": 1092,
       "trimBeforeFrames": 0,
       "durationFrames": 18,
-      "gain": 0.1273,
+      "gain": 0.16026,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 1
     },
     {
       "id": "scene-5.page-turn",
       "assetId": "pages-turning",
       "file": "assets/audio/sfx/transitions/pages-turning.mp3",
-      "fromFrame": 1200,
-      "trimBeforeFrames": 176,
+      "fromFrame": 1201,
+      "trimBeforeFrames": 178,
       "durationFrames": 18,
-      "gain": 0.17729,
+      "gain": 0.15441,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 0.975
     },
     {
       "id": "scene-5.workshop-checklist",
@@ -272,9 +296,10 @@
       "fromFrame": 1245,
       "trimBeforeFrames": 0,
       "durationFrames": 18,
-      "gain": 0.19524,
+      "gain": 0.24579,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 1
     },
     {
       "id": "scene-5.construct-orpheus",
@@ -283,9 +308,10 @@
       "fromFrame": 1286,
       "trimBeforeFrames": 0,
       "durationFrames": 9,
-      "gain": 0.12885,
+      "gain": 0.16221,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 1
     },
     {
       "id": "scene-5.portfolio-note",
@@ -294,9 +320,10 @@
       "fromFrame": 1353,
       "trimBeforeFrames": 0,
       "durationFrames": 16,
-      "gain": 1.22937,
+      "gain": 1.54769,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 1
     },
     {
       "id": "scene-5.ship",
@@ -305,20 +332,22 @@
       "fromFrame": 1460,
       "trimBeforeFrames": 0,
       "durationFrames": 4,
-      "gain": 0.16234,
+      "gain": 0.22931,
       "fadeInFrames": 1,
-      "fadeOutFrames": 2
+      "fadeOutFrames": 2,
+      "playbackRate": 1
     },
     {
       "id": "scene-6.page-turn",
       "assetId": "page-turn",
       "file": "assets/audio/sfx/transitions/page-turn.mp3",
       "fromFrame": 1560,
-      "trimBeforeFrames": 23,
+      "trimBeforeFrames": 22,
       "durationFrames": 18,
-      "gain": 0.30203,
+      "gain": 0.30907,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 1.015
     },
     {
       "id": "scene-6.closing-logo.land",
@@ -327,9 +356,10 @@
       "fromFrame": 1611,
       "trimBeforeFrames": 17,
       "durationFrames": 12,
-      "gain": 0.25526,
+      "gain": 0.32135,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 1
     },
     {
       "id": "scene-6.cta-reveal",
@@ -340,7 +370,8 @@
       "durationFrames": 12,
       "gain": 0.46293,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 1
     },
     {
       "id": "scene-6.yippee",
@@ -349,9 +380,10 @@
       "fromFrame": 1766,
       "trimBeforeFrames": 0,
       "durationFrames": 9,
-      "gain": 0.12885,
+      "gain": 0.16221,
       "fadeInFrames": 1,
-      "fadeOutFrames": 3
+      "fadeOutFrames": 3,
+      "playbackRate": 1
     }
   ]
 }

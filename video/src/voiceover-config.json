@@ -1,0 +1,8 @@
+{
+  "file": null,
+  "expectedUploadPath": "assets/audio/voiceover/hackistan-voiceover.wav",
+  "fromFrame": 0,
+  "trimBeforeFrames": 0,
+  "volume": 1,
+  "sfxGainUnderVoiceover": 0.65
+}
