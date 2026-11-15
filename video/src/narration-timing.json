@@ -1,0 +1,400 @@
+{
+  "fps": 30,
+  "durationFrames": 2994,
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "Hook",
+      "fromFrame": 0,
+      "durationFrames": 231,
+      "layers": {
+        "opening-note": 0.15,
+        "headline-paper": 0.55,
+        "headline-washi": 1.5,
+        "hook": 1.15,
+        "quetta-mountains": 3.5,
+        "quetta-label": 4.8,
+        "location": 5.9,
+        "hackistan-mark": 6.3
+      },
+      "camera": {
+        "stops": [
+          0,
+          2,
+          4.5,
+          6.7,
+          7.7
+        ],
+        "scale": [
+          1.015,
+          1.025,
+          1.04,
+          1.015,
+          1
+        ],
+        "x": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "y": [
+          18,
+          10,
+          -5,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "id": "scene-2",
+      "title": "Meet Hackistan",
+      "fromFrame": 231,
+      "durationFrames": 572,
+      "layers": {
+        "meet-note": 0.3,
+        "logo-backing": 0.5,
+        "logo-paper": 0.65,
+        "paperclip": 1.8,
+        "student-led-note": 2.1,
+        "community-letter": 5.0,
+        "hack-club-flag": 4.25,
+        "community-note": 9.9
+      },
+      "camera": {
+        "stops": [
+          0,
+          2.3,
+          4.0,
+          6.1,
+          10.4,
+          13.2,
+          16.7,
+          19.08
+        ],
+        "scale": [
+          1,
+          1.035,
+          1.035,
+          1.075,
+          1.09,
+          1.065,
+          1.035,
+          1
+        ],
+        "x": [
+          0,
+          0,
+          0,
+          -8,
+          -10,
+          0,
+          0,
+          0
+        ],
+        "y": [
+          0,
+          15,
+          15,
+          -70,
+          -90,
+          -55,
+          -12,
+          0
+        ]
+      }
+    },
+    {
+      "id": "scene-3",
+      "title": "Our Projects",
+      "fromFrame": 803,
+      "durationFrames": 547,
+      "layers": {},
+      "camera": {
+        "stops": [
+          0,
+          0.8,
+          2.1,
+          4.3,
+          5.6,
+          7.1,
+          9.7,
+          11.4,
+          12.8,
+          15.6,
+          17.1,
+          18.22
+        ],
+        "scale": [
+          1.015,
+          1,
+          1.22,
+          1.22,
+          1.19,
+          1.16,
+          1.16,
+          1.04,
+          1,
+          1,
+          1,
+          1
+        ],
+        "x": [
+          0,
+          0,
+          30,
+          25,
+          15,
+          0,
+          -5,
+          10,
+          15,
+          10,
+          0,
+          0
+        ],
+        "y": [
+          24,
+          0,
+          135,
+          130,
+          80,
+          45,
+          40,
+          -110,
+          -220,
+          -220,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "id": "scene-4",
+      "title": "What We Do",
+      "fromFrame": 1350,
+      "durationFrames": 423,
+      "layers": {
+        "create-heading": 0.3,
+        "curiosity-note": 1.05,
+        "coding-note": 2.6,
+        "web-note": 3.85,
+        "game-note": 5.4,
+        "game-lab": 6.45,
+        "cad-note": 7.2,
+        "pcb-note": 9.2,
+        "printing-note": 7.8,
+        "pcb-orpheus": 10.25,
+        "idea-arrow": 11.35,
+        "start-with-one": 12.6
+      },
+      "camera": {
+        "stops": [
+          0,
+          3.4,
+          5.4,
+          7.1,
+          9.4,
+          11.5,
+          14.1
+        ],
+        "scale": [
+          1,
+          1.035,
+          1.045,
+          1.045,
+          1.045,
+          1.025,
+          1
+        ],
+        "x": [
+          0,
+          8,
+          -8,
+          5,
+          -8,
+          0,
+          0
+        ],
+        "y": [
+          0,
+          20,
+          5,
+          -15,
+          -50,
+          -25,
+          0
+        ]
+      }
+    },
+    {
+      "id": "scene-5",
+      "title": "Opportunities",
+      "fromFrame": 1773,
+      "durationFrames": 807,
+      "layers": {
+        "opportunities-heading": 0.3,
+        "heading-underline": 1.3,
+        "workshop-checklist": 0.4,
+        "construct-orpheus": 2.05,
+        "programs-paper": 2.75,
+        "portfolio-note": 4.15,
+        "eligible-rewards": 6.05,
+        "save-share-checklist": 19.05,
+        "ship": 20.65,
+        "make-and-share": 24.45
+      },
+      "camera": {
+        "stops": [
+          0,
+          2.1,
+          4.8,
+          7.1,
+          10.2,
+          14.7,
+          17.0,
+          20.1,
+          23.0,
+          26.2,
+          26.9
+        ],
+        "scale": [
+          1,
+          1.06,
+          1.04,
+          1.12,
+          1.12,
+          1.09,
+          1.07,
+          1.065,
+          1.035,
+          1,
+          1
+        ],
+        "x": [
+          0,
+          0,
+          0,
+          -25,
+          -30,
+          -15,
+          0,
+          10,
+          0,
+          0,
+          0
+        ],
+        "y": [
+          0,
+          40,
+          -25,
+          -120,
+          -125,
+          -110,
+          -85,
+          -70,
+          -35,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "id": "scene-6",
+      "title": "Join Hackistan",
+      "fromFrame": 2580,
+      "durationFrames": 414,
+      "layers": {
+        "expert-note": 0.3,
+        "closing-backing": 0.55,
+        "closing-logo": 0.75,
+        "next-build-message": 2.25,
+        "bring-an-idea": 3.75,
+        "cta-reveal": 4.4,
+        "link-in-bio": 5.85,
+        "project-callback": 7.25,
+        "yippee": 9.65
+      },
+      "camera": {
+        "stops": [
+          0,
+          2.4,
+          4.2,
+          6.2,
+          9.2,
+          11.7,
+          12.7,
+          13.8
+        ],
+        "scale": [
+          1,
+          1.035,
+          1.035,
+          1.04,
+          1.025,
+          1.025,
+          1.015,
+          1
+        ],
+        "x": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "y": [
+          0,
+          15,
+          -15,
+          -55,
+          -30,
+          -30,
+          -15,
+          0
+        ]
+      }
+    }
+  ],
+  "projects": {
+    "boba": 0.47,
+    "bobaTape": 1.47,
+    "bobaSticker": 4.57,
+    "backing": 5.47,
+    "bake": 5.82,
+    "bakeTape": 6.82,
+    "annotation": 7.62,
+    "arrow": 8.82,
+    "jame": 11.52,
+    "jameTape": 12.52,
+    "godot": 15.32,
+    "footer": 16.32
+  },
+  "reviewSeconds": [
+    4.4,
+    9.7,
+    16.5,
+    23.5,
+    29.7,
+    35.6,
+    40.5,
+    44.6,
+    48.8,
+    53.4,
+    57.8,
+    61.5,
+    67.8,
+    74.3,
+    81.5,
+    85.7,
+    89.5,
+    92.4,
+    96.5,
+    99.4
+  ]
+}

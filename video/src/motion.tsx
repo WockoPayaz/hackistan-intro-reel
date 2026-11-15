@@ -1,4 +1,4 @@
-import React, {useId} from 'react';
+import React, {useId,useContext,createContext} from 'react';
 import {AbsoluteFill,Easing,interpolate,spring,useCurrentFrame,useVideoConfig} from 'remotion';
 import {Box,Tape,ink} from './components';
 const clamp={extrapolateLeft:'clamp',extrapolateRight:'clamp'} as const;
@@ -6,7 +6,7 @@ export const progress=(frame:number,start:number,duration:number)=>interpolate(f
 const smooth=(p:number)=>p*p*p*(p*(p*6-15)+10);
 // Separate the carried approach from the much smaller, damped contact correction.
 export const Place=({at,x,y,w,rotate=0,dx=0,dy=-150,tilt=4,children,kind='paper'}:{at:number;x:number;y:number;w:number;rotate?:number;dx?:number;dy?:number;tilt?:number;children:React.ReactNode;kind?:'paper'|'sticker'})=>{
- const frame=useCurrentFrame();const {fps}=useVideoConfig();const t=frame/fps-at;
+ const frame=useCurrentFrame();const {fps}=useVideoConfig();const t=frame/fps-at;const camera=useContext(CameraContext);
  if(t<0)return null;
  const sticker=kind==='sticker';const travel=sticker?.28:.72;
  const p=Easing.bezier(.25,.04,.22,1)(progress(t,0,travel));
@@ -14,7 +14,7 @@ export const Place=({at,x,y,w,rotate=0,dx=0,dy=-150,tilt=4,children,kind='paper'
  const contact=t<travel?1:1-settle;
  const lift=t<travel?1-p:0;
  const press=sticker?interpolate(t,[0,.28,.38,.58],[1.035,1,.989,1],clamp):1;
- return <Box x={x} y={y} w={w} rotate={rotate} style={{translate:`${dx*(1-p)+2*contact+cameraValue(frame/fps,cameraX)*.012}px ${dy*(1-p)+3*contact+cameraValue(frame/fps,cameraY)*.006}px`,rotate:`${rotate+tilt*(1-p)+.7*contact}deg`,scale:press,filter:`drop-shadow(${2+6*lift}px ${2+20*lift}px ${1+10*lift}px #453d2830)`,clipPath:sticker?`inset(0 0 ${100*(1-progress(t,0,.16))}% 0)`:undefined}}>{children}</Box>;
+ return <Box x={x} y={y} w={w} rotate={rotate} style={{translate:`${dx*(1-p)+2*contact+cameraAt(frame/fps,camera.x,camera.stops)*.012}px ${dy*(1-p)+3*contact+cameraAt(frame/fps,camera.y,camera.stops)*.006}px`,rotate:`${rotate+tilt*(1-p)+.7*contact}deg`,scale:press,filter:`drop-shadow(${2+6*lift}px ${2+20*lift}px ${1+10*lift}px #453d2830)`,clipPath:sticker?`inset(0 0 ${100*(1-progress(t,0,.16))}% 0)`:undefined}}>{children}</Box>;
 };
 // Adhesive unfurls from an anchored left end, then the raised edge is pressed flat.
 export const TapeApply=({at,x=80,y=-24}:{at:number;x?:number;y?:number})=>{
@@ -41,7 +41,11 @@ export const cameraScale=[1.015,1,1.22,1.22,1.16,1.16,1,1,1,1];
 export const cameraX=[0,0,30,30,0,0,15,15,0,0];
 export const cameraY=[24,0,135,135,45,45,-220,-220,0,0];
 export const cameraValue=(t:number,values:number[])=>interpolate(t,cameraStops,values,{...clamp,easing:smooth});
-export const NotebookCamera=({children}:{children:React.ReactNode})=>{
+export type CameraTrack={stops:number[];scale:number[];x:number[];y:number[]};
+export const defaultCamera={stops:cameraStops,scale:cameraScale,x:cameraX,y:cameraY};
+const CameraContext=createContext<CameraTrack>(defaultCamera);
+export const cameraAt=(t:number,values:number[],stops:number[])=>interpolate(t,stops,values,{...clamp,easing:smooth});
+export const NotebookCamera=({children,track=defaultCamera}:{children:React.ReactNode;track?:CameraTrack})=>{
  const frame=useCurrentFrame();const {fps}=useVideoConfig();const t=frame/fps;
- return <AbsoluteFill style={{background:'#f1ecdf',overflow:'hidden'}}><AbsoluteFill style={{translate:`${cameraValue(t,cameraX)}px ${cameraValue(t,cameraY)}px`,scale:cameraValue(t,cameraScale),transformOrigin:'50% 50%'}}><div className="grid" style={{position:'absolute',inset:-1440,backgroundColor:'#f1ecdf'}}/>{children}</AbsoluteFill></AbsoluteFill>;
+ return <CameraContext.Provider value={track}><AbsoluteFill style={{background:'#f1ecdf',overflow:'hidden'}}><AbsoluteFill style={{translate:`${cameraAt(t,track.x,track.stops)}px ${cameraAt(t,track.y,track.stops)}px`,scale:cameraAt(t,track.scale,track.stops),transformOrigin:'50% 50%'}}><div className="grid" style={{position:'absolute',inset:-1440,backgroundColor:'#f1ecdf'}}/>{children}</AbsoluteFill></AbsoluteFill></CameraContext.Provider>;
 };

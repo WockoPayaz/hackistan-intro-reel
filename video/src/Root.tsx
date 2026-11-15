@@ -1,4 +1,6 @@
 import {Composition,Still} from 'remotion';
+import {NarratedReel,NarratedVisuals,CaptionCard} from './NarratedReel';
+import narrationTiming from './narration-timing.json';
 import {Hook,Meet,Projects,Create,Opportunities,Join} from './scenes';
 import './style.css';
 import {FullReel} from './FullReel';
@@ -7,6 +9,9 @@ const ReelWithSfx=()=> <><FullReel/><SfxLayer/></>;
 import {ProjectsPrototype} from './ProjectsPrototype';
 // Full silent Reel, approved storyboards, and retained Scene 3 motion prototype.
 export const Root=()=> <>
+ <Composition id="HackistanNarratedVisuals" component={NarratedVisuals} width={1080} height={1920} fps={30} durationInFrames={narrationTiming.durationFrames}/>
+ <Still id="NarrationCaption" component={CaptionCard} defaultProps={{text:""}} width={1080} height={1920}/>
+ <Composition id="HackistanReelVoiceover" component={NarratedReel} width={1080} height={1920} fps={30} durationInFrames={narrationTiming.durationFrames}/>
  <Composition id="HackistanReelSfx" component={ReelWithSfx} width={1080} height={1920} fps={30} durationInFrames={1800}/>
  <Composition id="HackistanReel" component={FullReel} width={1080} height={1920} fps={30} durationInFrames={1800}/>
  <Composition id="Scene3Prototype" component={ProjectsPrototype} width={1080} height={1920} fps={30} durationInFrames={390}/>

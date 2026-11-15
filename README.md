@@ -1,6 +1,13 @@
 # Hackistan — scrapbook reel
 
-**Phase C: Foley review version.** [Watch/download the Reel with SFX](output/sfx/hackistan-reel-sfx.mp4?raw=true) · [Preserved silent version](output/reel/hackistan-reel.mp4?raw=true) · [Source/license catalog](docs/SFX_CATALOG.md). No voiceover or music has been added.
+## Recorded voiceover review — Phase D
+
+[Watch / download the 99.8-second Reel](output/voiceover/hackistan-reel-voiceover.mp4?raw=true) · [Transcript](output/voiceover/transcript.md) · [Timing, audio edits and review notes](output/voiceover/README.md)
+
+Natural-speed recorded narration, synchronized captions and retimed Foley. No music. Previous 60-second exports are preserved. Preview composition: `HackistanReelVoiceover`.
+
+
+**Phase C: Foley review version.** [Watch/download the Reel with SFX](output/sfx/hackistan-reel-sfx.mp4?raw=true) · [Preserved silent version](output/reel/hackistan-reel.mp4?raw=true) · [Source/license catalog](docs/SFX_CATALOG.md). That preserved Phase C version contains no voiceover or music.
 
 ## Review in Chrome
 
@@ -17,7 +24,7 @@ Open [the contact sheet](output/storyboards/contact-sheet.png), then tap a full-
 
 Each PNG is 1080 × 1920. The contact sheet is 1200 × 1510. All previews are silent. The supplied logos, stickers and all three project screenshots are now included.
 
-**Current checkpoint:** review the full animation. Voiceover, licensed music and Foley are reserved for subsequent approved passes.
+**Current checkpoint:** review the narrated Phase D edit linked above. Music remains reserved for a later approved pass.
 
 ## Project
 
@@ -44,7 +51,7 @@ The fonts are self-hosted through npm: Barlow Condensed (display), Kalam (annota
 
 ## Full Reel and audio preparation
 
-The 1800-frame silent Reel includes the original narration as timed subtitles. Source, render commands, optional audio paths and named Foley markers are documented in [FULL_REEL.md](docs/FULL_REEL.md). No audio clips have been added.
+The 1800-frame silent Reel includes the original narration as timed subtitles. Source, render commands, optional audio paths and named Foley markers are documented in [FULL_REEL.md](docs/FULL_REEL.md). That original export remains silent; the newer Foley and recorded-voice versions are documented above.
 
 [Art direction and motion plan](docs/STORYBOARD.md) · [Validation](docs/VALIDATION.md)
 

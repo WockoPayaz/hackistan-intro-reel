@@ -1,0 +1,1613 @@
+[
+  {
+    "start": 0.0,
+    "end": 5.24,
+    "text": " Hi there guys, it is Stock. You've probably seen our posts, but you might be wondering,",
+    "words": [
+      {
+        "word": " Hi",
+        "start": 0.0,
+        "end": 0.36,
+        "probability": 0.2125081568956375
+      },
+      {
+        "word": " there",
+        "start": 0.36,
+        "end": 0.54,
+        "probability": 0.8304694294929504
+      },
+      {
+        "word": " guys,",
+        "start": 0.54,
+        "end": 0.96,
+        "probability": 0.8136529922485352
+      },
+      {
+        "word": " it",
+        "start": 1.32,
+        "end": 1.54,
+        "probability": 0.16220450401306152
+      },
+      {
+        "word": " is",
+        "start": 1.54,
+        "end": 1.7,
+        "probability": 0.671073317527771
+      },
+      {
+        "word": " Stock.",
+        "start": 1.7,
+        "end": 1.9,
+        "probability": 0.28689855337142944
+      },
+      {
+        "word": " You've",
+        "start": 2.58,
+        "end": 2.86,
+        "probability": 0.6333533227443695
+      },
+      {
+        "word": " probably",
+        "start": 2.86,
+        "end": 3.08,
+        "probability": 0.9857079386711121
+      },
+      {
+        "word": " seen",
+        "start": 3.08,
+        "end": 3.34,
+        "probability": 0.9892571568489075
+      },
+      {
+        "word": " our",
+        "start": 3.34,
+        "end": 3.56,
+        "probability": 0.9867050051689148
+      },
+      {
+        "word": " posts,",
+        "start": 3.56,
+        "end": 3.88,
+        "probability": 0.889197826385498
+      },
+      {
+        "word": " but",
+        "start": 4.34,
+        "end": 4.48,
+        "probability": 0.9714150428771973
+      },
+      {
+        "word": " you",
+        "start": 4.48,
+        "end": 4.6,
+        "probability": 0.9870233535766602
+      },
+      {
+        "word": " might",
+        "start": 4.6,
+        "end": 4.72,
+        "probability": 0.9802252650260925
+      },
+      {
+        "word": " be",
+        "start": 4.72,
+        "end": 4.92,
+        "probability": 0.986639678478241
+      },
+      {
+        "word": " wondering,",
+        "start": 4.92,
+        "end": 5.24,
+        "probability": 0.9888688325881958
+      }
+    ]
+  },
+  {
+    "start": 5.84,
+    "end": 11.76,
+    "text": " what actually is Hackistan? We're a student-run Hack Club here in Quetta, but you know what's",
+    "words": [
+      {
+        "word": " what",
+        "start": 5.84,
+        "end": 6.14,
+        "probability": 0.8221645355224609
+      },
+      {
+        "word": " actually",
+        "start": 6.14,
+        "end": 6.72,
+        "probability": 0.9002098441123962
+      },
+      {
+        "word": " is",
+        "start": 6.72,
+        "end": 7.04,
+        "probability": 0.9767672419548035
+      },
+      {
+        "word": " Hackistan?",
+        "start": 7.04,
+        "end": 7.36,
+        "probability": 0.2899068221449852
+      },
+      {
+        "word": " We're",
+        "start": 8.46,
+        "end": 8.78,
+        "probability": 0.7107245326042175
+      },
+      {
+        "word": " a",
+        "start": 8.78,
+        "end": 8.86,
+        "probability": 0.8816879987716675
+      },
+      {
+        "word": " student",
+        "start": 8.86,
+        "end": 9.04,
+        "probability": 0.976842999458313
+      },
+      {
+        "word": "-run",
+        "start": 9.04,
+        "end": 9.36,
+        "probability": 0.9296229779720306
+      },
+      {
+        "word": " Hack",
+        "start": 9.36,
+        "end": 9.62,
+        "probability": 0.5866153240203857
+      },
+      {
+        "word": " Club",
+        "start": 9.62,
+        "end": 9.82,
+        "probability": 0.7319772839546204
+      },
+      {
+        "word": " here",
+        "start": 9.82,
+        "end": 10.18,
+        "probability": 0.9563145041465759
+      },
+      {
+        "word": " in",
+        "start": 10.18,
+        "end": 10.36,
+        "probability": 0.9913460612297058
+      },
+      {
+        "word": " Quetta,",
+        "start": 10.36,
+        "end": 10.58,
+        "probability": 0.06502528488636017
+      },
+      {
+        "word": " but",
+        "start": 11.12,
+        "end": 11.34,
+        "probability": 0.9756032228469849
+      },
+      {
+        "word": " you",
+        "start": 11.34,
+        "end": 11.48,
+        "probability": 0.9558017253875732
+      },
+      {
+        "word": " know",
+        "start": 11.48,
+        "end": 11.56,
+        "probability": 0.9980533123016357
+      },
+      {
+        "word": " what's",
+        "start": 11.56,
+        "end": 11.76,
+        "probability": 0.9722967147827148
+      }
+    ]
+  },
+  {
+    "start": 11.76,
+    "end": 20.02,
+    "text": " interesting? Hack Club is a network of over 140,000 teams in over 100 countries and 670 clubs.",
+    "words": [
+      {
+        "word": " interesting?",
+        "start": 11.76,
+        "end": 12.22,
+        "probability": 0.9968265891075134
+      },
+      {
+        "word": " Hack",
+        "start": 12.92,
+        "end": 12.96,
+        "probability": 0.9806217551231384
+      },
+      {
+        "word": " Club",
+        "start": 12.96,
+        "end": 13.16,
+        "probability": 0.82203209400177
+      },
+      {
+        "word": " is",
+        "start": 13.16,
+        "end": 13.4,
+        "probability": 0.8506711721420288
+      },
+      {
+        "word": " a",
+        "start": 13.4,
+        "end": 13.54,
+        "probability": 0.9864761829376221
+      },
+      {
+        "word": " network",
+        "start": 13.54,
+        "end": 13.68,
+        "probability": 0.9967106580734253
+      },
+      {
+        "word": " of",
+        "start": 13.68,
+        "end": 14.0,
+        "probability": 0.9880648255348206
+      },
+      {
+        "word": " over",
+        "start": 14.0,
+        "end": 14.26,
+        "probability": 0.9890474677085876
+      },
+      {
+        "word": " 140",
+        "start": 14.26,
+        "end": 15.22,
+        "probability": 0.9567253589630127
+      },
+      {
+        "word": ",000",
+        "start": 15.22,
+        "end": 15.78,
+        "probability": 0.9125730693340302
+      },
+      {
+        "word": " teams",
+        "start": 15.78,
+        "end": 16.04,
+        "probability": 0.6202356815338135
+      },
+      {
+        "word": " in",
+        "start": 16.04,
+        "end": 16.34,
+        "probability": 0.9742656946182251
+      },
+      {
+        "word": " over",
+        "start": 16.34,
+        "end": 16.6,
+        "probability": 0.9801297187805176
+      },
+      {
+        "word": " 100",
+        "start": 16.6,
+        "end": 17.0,
+        "probability": 0.9321913123130798
+      },
+      {
+        "word": " countries",
+        "start": 17.0,
+        "end": 17.48,
+        "probability": 0.986024022102356
+      },
+      {
+        "word": " and",
+        "start": 17.48,
+        "end": 18.22,
+        "probability": 0.7873534560203552
+      },
+      {
+        "word": " 670",
+        "start": 18.22,
+        "end": 19.38,
+        "probability": 0.9757994413375854
+      },
+      {
+        "word": " clubs.",
+        "start": 19.38,
+        "end": 20.02,
+        "probability": 0.9776096940040588
+      }
+    ]
+  },
+  {
+    "start": 20.8,
+    "end": 28.28,
+    "text": " We get together to learn new stuff and when, make stuff and return, get prizes. Like one of our",
+    "words": [
+      {
+        "word": " We",
+        "start": 20.8,
+        "end": 21.06,
+        "probability": 0.985313892364502
+      },
+      {
+        "word": " get",
+        "start": 21.06,
+        "end": 21.28,
+        "probability": 0.9908182621002197
+      },
+      {
+        "word": " together",
+        "start": 21.28,
+        "end": 21.76,
+        "probability": 0.9963207244873047
+      },
+      {
+        "word": " to",
+        "start": 21.76,
+        "end": 22.06,
+        "probability": 0.7319351434707642
+      },
+      {
+        "word": " learn",
+        "start": 22.06,
+        "end": 22.24,
+        "probability": 0.9860377907752991
+      },
+      {
+        "word": " new",
+        "start": 22.24,
+        "end": 22.56,
+        "probability": 0.9938192963600159
+      },
+      {
+        "word": " stuff",
+        "start": 22.56,
+        "end": 22.88,
+        "probability": 0.9975103139877319
+      },
+      {
+        "word": " and",
+        "start": 22.88,
+        "end": 23.5,
+        "probability": 0.765550971031189
+      },
+      {
+        "word": " when,",
+        "start": 23.5,
+        "end": 23.82,
+        "probability": 0.6134357452392578
+      },
+      {
+        "word": " make",
+        "start": 24.46,
+        "end": 24.78,
+        "probability": 0.8731816411018372
+      },
+      {
+        "word": " stuff",
+        "start": 24.78,
+        "end": 25.02,
+        "probability": 0.9930254220962524
+      },
+      {
+        "word": " and",
+        "start": 25.02,
+        "end": 25.32,
+        "probability": 0.8228573203086853
+      },
+      {
+        "word": " return,",
+        "start": 25.32,
+        "end": 25.74,
+        "probability": 0.7662105560302734
+      },
+      {
+        "word": " get",
+        "start": 25.98,
+        "end": 26.24,
+        "probability": 0.9916976690292358
+      },
+      {
+        "word": " prizes.",
+        "start": 26.24,
+        "end": 26.74,
+        "probability": 0.9833551049232483
+      },
+      {
+        "word": " Like",
+        "start": 27.58,
+        "end": 27.78,
+        "probability": 0.9719826579093933
+      },
+      {
+        "word": " one",
+        "start": 27.78,
+        "end": 27.98,
+        "probability": 0.8612167835235596
+      },
+      {
+        "word": " of",
+        "start": 27.98,
+        "end": 28.1,
+        "probability": 0.9957834482192993
+      },
+      {
+        "word": " our",
+        "start": 28.1,
+        "end": 28.28,
+        "probability": 0.9965893030166626
+      }
+    ]
+  },
+  {
+    "start": 28.28,
+    "end": 34.44,
+    "text": " members made a website for Boba Drops and guess what? We got the Boba. We designed cookie cutters",
+    "words": [
+      {
+        "word": " members",
+        "start": 28.28,
+        "end": 28.54,
+        "probability": 0.10034400969743729
+      },
+      {
+        "word": " made",
+        "start": 28.54,
+        "end": 28.84,
+        "probability": 0.9196829795837402
+      },
+      {
+        "word": " a",
+        "start": 28.84,
+        "end": 28.98,
+        "probability": 0.8388150930404663
+      },
+      {
+        "word": " website",
+        "start": 28.98,
+        "end": 29.3,
+        "probability": 0.9629252552986145
+      },
+      {
+        "word": " for",
+        "start": 29.3,
+        "end": 29.58,
+        "probability": 0.9582962393760681
+      },
+      {
+        "word": " Boba",
+        "start": 29.58,
+        "end": 29.9,
+        "probability": 0.5218188650906086
+      },
+      {
+        "word": " Drops",
+        "start": 29.9,
+        "end": 30.1,
+        "probability": 0.0004199522954877466
+      },
+      {
+        "word": " and",
+        "start": 30.1,
+        "end": 30.86,
+        "probability": 0.3034788966178894
+      },
+      {
+        "word": " guess",
+        "start": 30.86,
+        "end": 31.0,
+        "probability": 0.8813973665237427
+      },
+      {
+        "word": " what?",
+        "start": 31.0,
+        "end": 31.3,
+        "probability": 0.9875475168228149
+      },
+      {
+        "word": " We",
+        "start": 31.6,
+        "end": 31.8,
+        "probability": 0.8741763830184937
+      },
+      {
+        "word": " got",
+        "start": 31.8,
+        "end": 32.02,
+        "probability": 0.9795879125595093
+      },
+      {
+        "word": " the",
+        "start": 32.02,
+        "end": 32.28,
+        "probability": 0.2322932630777359
+      },
+      {
+        "word": " Boba.",
+        "start": 32.28,
+        "end": 32.68,
+        "probability": 0.8896718323230743
+      },
+      {
+        "word": " We",
+        "start": 33.12,
+        "end": 33.38,
+        "probability": 0.9729732871055603
+      },
+      {
+        "word": " designed",
+        "start": 33.38,
+        "end": 33.7,
+        "probability": 0.8653155565261841
+      },
+      {
+        "word": " cookie",
+        "start": 33.7,
+        "end": 34.0,
+        "probability": 0.9798822999000549
+      },
+      {
+        "word": " cutters",
+        "start": 34.0,
+        "end": 34.44,
+        "probability": 0.9524333775043488
+      }
+    ]
+  },
+  {
+    "start": 34.44,
+    "end": 42.58,
+    "text": " for BakeBuild. We got 3D printed 3 cookie cutters and for Game Jam, we made an entire game and guess",
+    "words": [
+      {
+        "word": " for",
+        "start": 34.44,
+        "end": 34.72,
+        "probability": 0.9704427719116211
+      },
+      {
+        "word": " BakeBuild.",
+        "start": 34.72,
+        "end": 35.14,
+        "probability": 0.008075432205032484
+      },
+      {
+        "word": " We",
+        "start": 35.48,
+        "end": 35.62,
+        "probability": 0.9828280210494995
+      },
+      {
+        "word": " got",
+        "start": 35.62,
+        "end": 35.82,
+        "probability": 0.986857533454895
+      },
+      {
+        "word": " 3D",
+        "start": 35.82,
+        "end": 36.3,
+        "probability": 0.9178452491760254
+      },
+      {
+        "word": " printed",
+        "start": 36.3,
+        "end": 36.62,
+        "probability": 0.8979094624519348
+      },
+      {
+        "word": " 3",
+        "start": 36.62,
+        "end": 37.12,
+        "probability": 0.33749595284461975
+      },
+      {
+        "word": " cookie",
+        "start": 37.12,
+        "end": 37.52,
+        "probability": 0.9697251319885254
+      },
+      {
+        "word": " cutters",
+        "start": 37.52,
+        "end": 38.04,
+        "probability": 0.9887194931507111
+      },
+      {
+        "word": " and",
+        "start": 38.04,
+        "end": 38.82,
+        "probability": 0.4928108751773834
+      },
+      {
+        "word": " for",
+        "start": 38.82,
+        "end": 39.08,
+        "probability": 0.9875898361206055
+      },
+      {
+        "word": " Game",
+        "start": 39.08,
+        "end": 39.36,
+        "probability": 0.8733640909194946
+      },
+      {
+        "word": " Jam,",
+        "start": 39.36,
+        "end": 39.58,
+        "probability": 0.7703579068183899
+      },
+      {
+        "word": " we",
+        "start": 40.28,
+        "end": 40.3,
+        "probability": 0.9670915007591248
+      },
+      {
+        "word": " made",
+        "start": 40.3,
+        "end": 40.64,
+        "probability": 0.9832448959350586
+      },
+      {
+        "word": " an",
+        "start": 40.64,
+        "end": 40.94,
+        "probability": 0.9887005686759949
+      },
+      {
+        "word": " entire",
+        "start": 40.94,
+        "end": 41.32,
+        "probability": 0.9814695119857788
+      },
+      {
+        "word": " game",
+        "start": 41.32,
+        "end": 41.76,
+        "probability": 0.9969159364700317
+      },
+      {
+        "word": " and",
+        "start": 41.76,
+        "end": 42.34,
+        "probability": 0.5272366404533386
+      },
+      {
+        "word": " guess",
+        "start": 42.34,
+        "end": 42.58,
+        "probability": 0.9882273077964783
+      }
+    ]
+  },
+  {
+    "start": 42.58,
+    "end": 50.18,
+    "text": " what? We got a free controller. Now you might be wondering, what we do? We do coding, we do website",
+    "words": [
+      {
+        "word": " what?",
+        "start": 42.58,
+        "end": 43.02,
+        "probability": 0.9950463771820068
+      },
+      {
+        "word": " We",
+        "start": 43.36,
+        "end": 43.64,
+        "probability": 0.962864875793457
+      },
+      {
+        "word": " got",
+        "start": 43.64,
+        "end": 43.9,
+        "probability": 0.9911654591560364
+      },
+      {
+        "word": " a",
+        "start": 43.9,
+        "end": 44.18,
+        "probability": 0.987280011177063
+      },
+      {
+        "word": " free",
+        "start": 44.18,
+        "end": 44.42,
+        "probability": 0.9389030933380127
+      },
+      {
+        "word": " controller.",
+        "start": 44.42,
+        "end": 44.96,
+        "probability": 0.9960930943489075
+      },
+      {
+        "word": " Now",
+        "start": 45.66,
+        "end": 45.94,
+        "probability": 0.983640730381012
+      },
+      {
+        "word": " you",
+        "start": 45.94,
+        "end": 46.06,
+        "probability": 0.6932072639465332
+      },
+      {
+        "word": " might",
+        "start": 46.06,
+        "end": 46.22,
+        "probability": 0.9974972605705261
+      },
+      {
+        "word": " be",
+        "start": 46.22,
+        "end": 46.42,
+        "probability": 0.9963202476501465
+      },
+      {
+        "word": " wondering,",
+        "start": 46.42,
+        "end": 46.74,
+        "probability": 0.9975817203521729
+      },
+      {
+        "word": " what",
+        "start": 47.08,
+        "end": 47.38,
+        "probability": 0.936892569065094
+      },
+      {
+        "word": " we",
+        "start": 47.38,
+        "end": 47.64,
+        "probability": 0.5955188870429993
+      },
+      {
+        "word": " do?",
+        "start": 47.64,
+        "end": 47.88,
+        "probability": 0.9900982975959778
+      },
+      {
+        "word": " We",
+        "start": 48.24,
+        "end": 48.46,
+        "probability": 0.9332524538040161
+      },
+      {
+        "word": " do",
+        "start": 48.46,
+        "end": 48.6,
+        "probability": 0.995541512966156
+      },
+      {
+        "word": " coding,",
+        "start": 48.6,
+        "end": 48.9,
+        "probability": 0.9871676564216614
+      },
+      {
+        "word": " we",
+        "start": 49.54,
+        "end": 49.74,
+        "probability": 0.9149688482284546
+      },
+      {
+        "word": " do",
+        "start": 49.74,
+        "end": 49.9,
+        "probability": 0.9981746673583984
+      },
+      {
+        "word": " website",
+        "start": 49.9,
+        "end": 50.18,
+        "probability": 0.9561889171600342
+      }
+    ]
+  },
+  {
+    "start": 50.18,
+    "end": 57.72,
+    "text": " development, we do game dev, CAD, 3D printing, even PCB design and you don't need to know",
+    "words": [
+      {
+        "word": " development,",
+        "start": 50.18,
+        "end": 50.68,
+        "probability": 0.9860396385192871
+      },
+      {
+        "word": " we",
+        "start": 51.06,
+        "end": 51.34,
+        "probability": 0.9537174701690674
+      },
+      {
+        "word": " do",
+        "start": 51.34,
+        "end": 51.62,
+        "probability": 0.9969167709350586
+      },
+      {
+        "word": " game",
+        "start": 51.62,
+        "end": 51.92,
+        "probability": 0.6856508255004883
+      },
+      {
+        "word": " dev,",
+        "start": 51.92,
+        "end": 52.14,
+        "probability": 0.4492584764957428
+      },
+      {
+        "word": " CAD,",
+        "start": 53.24,
+        "end": 53.34,
+        "probability": 0.7495359778404236
+      },
+      {
+        "word": " 3D",
+        "start": 53.74,
+        "end": 54.12,
+        "probability": 0.9592582285404205
+      },
+      {
+        "word": " printing,",
+        "start": 54.12,
+        "end": 54.52,
+        "probability": 0.9474183917045593
+      },
+      {
+        "word": " even",
+        "start": 55.04,
+        "end": 55.22,
+        "probability": 0.9899681806564331
+      },
+      {
+        "word": " PCB",
+        "start": 55.22,
+        "end": 55.66,
+        "probability": 0.06635069847106934
+      },
+      {
+        "word": " design",
+        "start": 55.66,
+        "end": 56.02,
+        "probability": 0.9412131309509277
+      },
+      {
+        "word": " and",
+        "start": 56.02,
+        "end": 56.82,
+        "probability": 0.5807324051856995
+      },
+      {
+        "word": " you",
+        "start": 56.82,
+        "end": 56.98,
+        "probability": 0.950349748134613
+      },
+      {
+        "word": " don't",
+        "start": 56.98,
+        "end": 57.14,
+        "probability": 0.9911015033721924
+      },
+      {
+        "word": " need",
+        "start": 57.14,
+        "end": 57.36,
+        "probability": 0.9975494742393494
+      },
+      {
+        "word": " to",
+        "start": 57.36,
+        "end": 57.5,
+        "probability": 0.9956165552139282
+      },
+      {
+        "word": " know",
+        "start": 57.5,
+        "end": 57.72,
+        "probability": 0.9983568787574768
+      }
+    ]
+  },
+  {
+    "start": 57.72,
+    "end": 63.98,
+    "text": " anything before you join. We run workshops, but you can also work on your own projects through",
+    "words": [
+      {
+        "word": " anything",
+        "start": 57.72,
+        "end": 58.28,
+        "probability": 0.26985785365104675
+      },
+      {
+        "word": " before",
+        "start": 58.28,
+        "end": 59.16,
+        "probability": 0.9065561294555664
+      },
+      {
+        "word": " you",
+        "start": 59.16,
+        "end": 59.34,
+        "probability": 0.8952413201332092
+      },
+      {
+        "word": " join.",
+        "start": 59.34,
+        "end": 59.58,
+        "probability": 0.9295018315315247
+      },
+      {
+        "word": " We",
+        "start": 60.1,
+        "end": 60.46,
+        "probability": 0.9648563861846924
+      },
+      {
+        "word": " run",
+        "start": 60.46,
+        "end": 60.64,
+        "probability": 0.9409811496734619
+      },
+      {
+        "word": " workshops,",
+        "start": 60.64,
+        "end": 61.06,
+        "probability": 0.9792914986610413
+      },
+      {
+        "word": " but",
+        "start": 61.64,
+        "end": 61.68,
+        "probability": 0.9876430034637451
+      },
+      {
+        "word": " you",
+        "start": 61.68,
+        "end": 61.82,
+        "probability": 0.9893487691879272
+      },
+      {
+        "word": " can",
+        "start": 61.82,
+        "end": 61.96,
+        "probability": 0.9944990873336792
+      },
+      {
+        "word": " also",
+        "start": 61.96,
+        "end": 62.24,
+        "probability": 0.9865975975990295
+      },
+      {
+        "word": " work",
+        "start": 62.24,
+        "end": 62.54,
+        "probability": 0.9842919111251831
+      },
+      {
+        "word": " on",
+        "start": 62.54,
+        "end": 62.82,
+        "probability": 0.9927813410758972
+      },
+      {
+        "word": " your",
+        "start": 62.82,
+        "end": 62.98,
+        "probability": 0.9879917502403259
+      },
+      {
+        "word": " own",
+        "start": 62.98,
+        "end": 63.2,
+        "probability": 0.9860520362854004
+      },
+      {
+        "word": " projects",
+        "start": 63.2,
+        "end": 63.58,
+        "probability": 0.9696378707885742
+      },
+      {
+        "word": " through",
+        "start": 63.58,
+        "end": 63.98,
+        "probability": 0.9091228246688843
+      }
+    ]
+  },
+  {
+    "start": 63.98,
+    "end": 68.76,
+    "text": " Hack Club programs. Some of these even offer rewards and grants if you qualify,",
+    "words": [
+      {
+        "word": " Hack",
+        "start": 63.98,
+        "end": 64.12,
+        "probability": 0.07199935615062714
+      },
+      {
+        "word": " Club",
+        "start": 64.12,
+        "end": 64.22,
+        "probability": 0.008851513266563416
+      },
+      {
+        "word": " programs.",
+        "start": 64.22,
+        "end": 64.68,
+        "probability": 0.5631294250488281
+      },
+      {
+        "word": " Some",
+        "start": 65.34,
+        "end": 65.48,
+        "probability": 0.9906535744667053
+      },
+      {
+        "word": " of",
+        "start": 65.48,
+        "end": 65.62,
+        "probability": 0.9922052025794983
+      },
+      {
+        "word": " these",
+        "start": 65.62,
+        "end": 65.82,
+        "probability": 0.9939010143280029
+      },
+      {
+        "word": " even",
+        "start": 65.82,
+        "end": 66.08,
+        "probability": 0.9575504064559937
+      },
+      {
+        "word": " offer",
+        "start": 66.08,
+        "end": 66.48,
+        "probability": 0.9916588664054871
+      },
+      {
+        "word": " rewards",
+        "start": 66.48,
+        "end": 66.92,
+        "probability": 0.9940217137336731
+      },
+      {
+        "word": " and",
+        "start": 66.92,
+        "end": 67.38,
+        "probability": 0.8190839290618896
+      },
+      {
+        "word": " grants",
+        "start": 67.38,
+        "end": 67.86,
+        "probability": 0.9865581393241882
+      },
+      {
+        "word": " if",
+        "start": 67.86,
+        "end": 68.12,
+        "probability": 0.9450957775115967
+      },
+      {
+        "word": " you",
+        "start": 68.12,
+        "end": 68.26,
+        "probability": 0.9968677163124084
+      },
+      {
+        "word": " qualify,",
+        "start": 68.26,
+        "end": 68.76,
+        "probability": 0.9986907839775085
+      }
+    ]
+  },
+  {
+    "start": 69.3,
+    "end": 76.5,
+    "text": " such as a fully funded trip to China, iPads, MacBooks and a 3D printed supported by MIT,",
+    "words": [
+      {
+        "word": " such",
+        "start": 69.3,
+        "end": 69.46,
+        "probability": 0.9933229088783264
+      },
+      {
+        "word": " as",
+        "start": 69.46,
+        "end": 69.74,
+        "probability": 0.9868480563163757
+      },
+      {
+        "word": " a",
+        "start": 69.74,
+        "end": 69.94,
+        "probability": 0.9032193422317505
+      },
+      {
+        "word": " fully",
+        "start": 69.94,
+        "end": 70.2,
+        "probability": 0.9969391822814941
+      },
+      {
+        "word": " funded",
+        "start": 70.2,
+        "end": 70.48,
+        "probability": 0.8576467633247375
+      },
+      {
+        "word": " trip",
+        "start": 70.48,
+        "end": 70.74,
+        "probability": 0.9922707080841064
+      },
+      {
+        "word": " to",
+        "start": 70.74,
+        "end": 70.94,
+        "probability": 0.9964451193809509
+      },
+      {
+        "word": " China,",
+        "start": 70.94,
+        "end": 71.26,
+        "probability": 0.9928833246231079
+      },
+      {
+        "word": " iPads,",
+        "start": 71.88,
+        "end": 72.14,
+        "probability": 0.9535161852836609
+      },
+      {
+        "word": " MacBooks",
+        "start": 72.7,
+        "end": 73.42,
+        "probability": 0.7477971017360687
+      },
+      {
+        "word": " and",
+        "start": 73.42,
+        "end": 73.58,
+        "probability": 0.432344913482666
+      },
+      {
+        "word": " a",
+        "start": 73.58,
+        "end": 73.74,
+        "probability": 0.7481994032859802
+      },
+      {
+        "word": " 3D",
+        "start": 73.74,
+        "end": 74.06,
+        "probability": 0.929436981678009
+      },
+      {
+        "word": " printed",
+        "start": 74.06,
+        "end": 74.42,
+        "probability": 0.7436708807945251
+      },
+      {
+        "word": " supported",
+        "start": 74.42,
+        "end": 75.64,
+        "probability": 0.7304136753082275
+      },
+      {
+        "word": " by",
+        "start": 75.64,
+        "end": 75.98,
+        "probability": 0.9943124055862427
+      },
+      {
+        "word": " MIT,",
+        "start": 75.98,
+        "end": 76.5,
+        "probability": 0.9922000765800476
+      }
+    ]
+  },
+  {
+    "start": 77.12,
+    "end": 83.34,
+    "text": " NASA, EMT, Dell and many other big games. Hack Club has distributed over 2 million",
+    "words": [
+      {
+        "word": " NASA,",
+        "start": 77.12,
+        "end": 77.24,
+        "probability": 0.986388623714447
+      },
+      {
+        "word": " EMT,",
+        "start": 77.88,
+        "end": 78.08,
+        "probability": 0.8652051687240601
+      },
+      {
+        "word": " Dell",
+        "start": 78.72,
+        "end": 78.74,
+        "probability": 0.9846455454826355
+      },
+      {
+        "word": " and",
+        "start": 78.74,
+        "end": 79.08,
+        "probability": 0.6462960243225098
+      },
+      {
+        "word": " many",
+        "start": 79.08,
+        "end": 79.36,
+        "probability": 0.9930675029754639
+      },
+      {
+        "word": " other",
+        "start": 79.36,
+        "end": 79.62,
+        "probability": 0.9906588792800903
+      },
+      {
+        "word": " big",
+        "start": 79.62,
+        "end": 79.88,
+        "probability": 0.9861293435096741
+      },
+      {
+        "word": " games.",
+        "start": 79.88,
+        "end": 80.42,
+        "probability": 0.4308730959892273
+      },
+      {
+        "word": " Hack",
+        "start": 81.22,
+        "end": 81.3,
+        "probability": 0.9238370060920715
+      },
+      {
+        "word": " Club",
+        "start": 81.3,
+        "end": 81.5,
+        "probability": 0.9412000179290771
+      },
+      {
+        "word": " has",
+        "start": 81.5,
+        "end": 81.76,
+        "probability": 0.9693782925605774
+      },
+      {
+        "word": " distributed",
+        "start": 81.76,
+        "end": 82.3,
+        "probability": 0.9969210624694824
+      },
+      {
+        "word": " over",
+        "start": 82.3,
+        "end": 82.68,
+        "probability": 0.9951707720756531
+      },
+      {
+        "word": " 2",
+        "start": 82.68,
+        "end": 83.04,
+        "probability": 0.3452777862548828
+      },
+      {
+        "word": " million",
+        "start": 83.04,
+        "end": 83.34,
+        "probability": 0.9378727674484253
+      }
+    ]
+  },
+  {
+    "start": 83.34,
+    "end": 89.72,
+    "text": " dollars worth of rewards this past year. So if you're a teenager in Toyota, you want to try",
+    "words": [
+      {
+        "word": " dollars",
+        "start": 83.34,
+        "end": 84.2,
+        "probability": 0.16541145741939545
+      },
+      {
+        "word": " worth",
+        "start": 84.2,
+        "end": 84.62,
+        "probability": 0.8637110590934753
+      },
+      {
+        "word": " of",
+        "start": 84.62,
+        "end": 84.88,
+        "probability": 0.9908903241157532
+      },
+      {
+        "word": " rewards",
+        "start": 84.88,
+        "end": 85.26,
+        "probability": 0.9774561524391174
+      },
+      {
+        "word": " this",
+        "start": 85.26,
+        "end": 85.7,
+        "probability": 0.9141890406608582
+      },
+      {
+        "word": " past",
+        "start": 85.7,
+        "end": 86.0,
+        "probability": 0.9953195452690125
+      },
+      {
+        "word": " year.",
+        "start": 86.0,
+        "end": 86.32,
+        "probability": 0.997885525226593
+      },
+      {
+        "word": " So",
+        "start": 87.16,
+        "end": 87.2,
+        "probability": 0.9133617281913757
+      },
+      {
+        "word": " if",
+        "start": 87.2,
+        "end": 87.38,
+        "probability": 0.8276468515396118
+      },
+      {
+        "word": " you're",
+        "start": 87.38,
+        "end": 87.56,
+        "probability": 0.7619054317474365
+      },
+      {
+        "word": " a",
+        "start": 87.56,
+        "end": 87.68,
+        "probability": 0.9749142527580261
+      },
+      {
+        "word": " teenager",
+        "start": 87.68,
+        "end": 88.08,
+        "probability": 0.9639018177986145
+      },
+      {
+        "word": " in",
+        "start": 88.08,
+        "end": 88.34,
+        "probability": 0.9480744004249573
+      },
+      {
+        "word": " Toyota,",
+        "start": 88.34,
+        "end": 88.66,
+        "probability": 0.017572248354554176
+      },
+      {
+        "word": " you",
+        "start": 88.96,
+        "end": 89.04,
+        "probability": 0.8520298600196838
+      },
+      {
+        "word": " want",
+        "start": 89.04,
+        "end": 89.32,
+        "probability": 0.7937992811203003
+      },
+      {
+        "word": " to",
+        "start": 89.32,
+        "end": 89.46,
+        "probability": 0.9958072900772095
+      },
+      {
+        "word": " try",
+        "start": 89.46,
+        "end": 89.72,
+        "probability": 0.9834818840026855
+      }
+    ]
+  },
+  {
+    "start": 89.72,
+    "end": 96.36,
+    "text": " making something, come join us. It's completely free to join and you get free stuff and you'd",
+    "words": [
+      {
+        "word": " making",
+        "start": 89.72,
+        "end": 90.28,
+        "probability": 0.974573016166687
+      },
+      {
+        "word": " something,",
+        "start": 90.28,
+        "end": 90.82,
+        "probability": 0.9973612427711487
+      },
+      {
+        "word": " come",
+        "start": 91.4,
+        "end": 91.48,
+        "probability": 0.9439688920974731
+      },
+      {
+        "word": " join",
+        "start": 91.48,
+        "end": 91.8,
+        "probability": 0.980156421661377
+      },
+      {
+        "word": " us.",
+        "start": 91.8,
+        "end": 92.14,
+        "probability": 0.9120222926139832
+      },
+      {
+        "word": " It's",
+        "start": 92.52,
+        "end": 92.72,
+        "probability": 0.9785028100013733
+      },
+      {
+        "word": " completely",
+        "start": 92.72,
+        "end": 93.1,
+        "probability": 0.9964351654052734
+      },
+      {
+        "word": " free",
+        "start": 93.1,
+        "end": 93.54,
+        "probability": 0.994244396686554
+      },
+      {
+        "word": " to",
+        "start": 93.54,
+        "end": 93.72,
+        "probability": 0.9975983500480652
+      },
+      {
+        "word": " join",
+        "start": 93.72,
+        "end": 93.94,
+        "probability": 0.9931367635726929
+      },
+      {
+        "word": " and",
+        "start": 93.94,
+        "end": 94.44,
+        "probability": 0.5839121341705322
+      },
+      {
+        "word": " you",
+        "start": 94.44,
+        "end": 94.56,
+        "probability": 0.9960595369338989
+      },
+      {
+        "word": " get",
+        "start": 94.56,
+        "end": 94.72,
+        "probability": 0.948514461517334
+      },
+      {
+        "word": " free",
+        "start": 94.72,
+        "end": 95.06,
+        "probability": 0.2687397003173828
+      },
+      {
+        "word": " stuff",
+        "start": 95.06,
+        "end": 95.32,
+        "probability": 0.7571666836738586
+      },
+      {
+        "word": " and",
+        "start": 95.32,
+        "end": 96.08,
+        "probability": 0.4954715073108673
+      },
+      {
+        "word": " you'd",
+        "start": 96.08,
+        "end": 96.36,
+        "probability": 0.737394243478775
+      }
+    ]
+  },
+  {
+    "start": 96.36,
+    "end": 98.98,
+    "text": " be stupid if you join. Join our testimony.",
+    "words": [
+      {
+        "word": " be",
+        "start": 96.36,
+        "end": 96.56,
+        "probability": 0.9911088943481445
+      },
+      {
+        "word": " stupid",
+        "start": 96.56,
+        "end": 96.98,
+        "probability": 0.9593212604522705
+      },
+      {
+        "word": " if",
+        "start": 96.98,
+        "end": 97.18,
+        "probability": 0.9057583212852478
+      },
+      {
+        "word": " you",
+        "start": 97.18,
+        "end": 97.3,
+        "probability": 0.9817333221435547
+      },
+      {
+        "word": " join.",
+        "start": 97.3,
+        "end": 97.74,
+        "probability": 0.28686460852622986
+      },
+      {
+        "word": " Join",
+        "start": 97.74,
+        "end": 98.26,
+        "probability": 0.9738710522651672
+      },
+      {
+        "word": " our",
+        "start": 98.26,
+        "end": 98.7,
+        "probability": 0.8833320736885071
+      },
+      {
+        "word": " testimony.",
+        "start": 98.7,
+        "end": 98.98,
+        "probability": 0.6992008686065674
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'output/voiceover/hackistan-reel-voiceover.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.103
+    comment         : Made with Remotion 4.0.543
+  Duration: 00:01:39.80, start: 0.000000, bitrate: 4842 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuvj420p(pc, bt470bg/unknown/unknown, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 4643 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 libx264
+
+[Periodic metering lines omitted; final measurement follows.]
+
+[Parsed_ebur128_0 @ 0x7f8594002500] Summary:
+
+  Integrated loudness:
+    I:         -20.9 LUFS
+    Threshold: -31.6 LUFS
+
+  Loudness range:
+    LRA:         3.6 LU
+    Threshold: -41.7 LUFS
+    LRA low:   -23.7 LUFS
+    LRA high:  -20.1 LUFS
+
+  True peak:
+    Peak:       -2.1 dBFS
+[out#0/null @ 0x5637f5527f00] video:1286KiB audio:18716KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame= 2994 fps=638 q=-0.0 Lsize=N/A time=00:01:39.80 bitrate=N/A speed=21.3x

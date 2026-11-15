@@ -2,3 +2,13 @@ node_modules/
 video/build/
 *.log
 .DS_Store
+
+__pycache__/
+
+# Rebuildable Phase D render caches and separate mix stems.
+output/voiceover/narrated-visuals.mp4
+output/voiceover/retimed-foley.wav
+output/voiceover/voiceover-and-sfx.wav
+output/voiceover/caption-cards/
+output/voiceover/caption-concat.txt
+output/voiceover/review-*.png

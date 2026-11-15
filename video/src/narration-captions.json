@@ -1,0 +1,338 @@
+[
+  {
+    "text": "Hi there guys,",
+    "startMs": 0,
+    "endMs": 1040,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "You have probably seen our posts,",
+    "startMs": 2580,
+    "endMs": 4060,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "but you might be wondering,",
+    "startMs": 4120,
+    "endMs": 5340,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "what actually is Hackistan?",
+    "startMs": 5840,
+    "endMs": 7520,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "We're a student run Hack Club here in Quetta.",
+    "startMs": 8060,
+    "endMs": 10380,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "But you know what's interesting?",
+    "startMs": 10860,
+    "endMs": 11900,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Hack Club is a network of",
+    "startMs": 12520,
+    "endMs": 13560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "over 140,000 teens",
+    "startMs": 13560,
+    "endMs": 15640,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "in over 100 countries and 670 clubs.",
+    "startMs": 15640,
+    "endMs": 19780,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "We get together to learn new stuff",
+    "startMs": 20400,
+    "endMs": 22480,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "and well, make stuff",
+    "startMs": 22480,
+    "endMs": 24640,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "and return get prizes.",
+    "startMs": 24640,
+    "endMs": 26420,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Like one of our members",
+    "startMs": 27180,
+    "endMs": 28180,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "made a website for Boba Drops.",
+    "startMs": 28180,
+    "endMs": 30040,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "And guess what?",
+    "startMs": 30140,
+    "endMs": 31020,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "We got free Boba.",
+    "startMs": 31060,
+    "endMs": 32340,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "We designed cookie cutters for BakeBuild.",
+    "startMs": 32720,
+    "endMs": 34880,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "We got 3D printed free cookie cutters.",
+    "startMs": 34940,
+    "endMs": 37760,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "And for Game Jam,",
+    "startMs": 37820,
+    "endMs": 39300,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "we made an entire game.",
+    "startMs": 39880,
+    "endMs": 41460,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "And guess what?",
+    "startMs": 41480,
+    "endMs": 42700,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "We got a free controller.",
+    "startMs": 42740,
+    "endMs": 44640,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Now you might be wondering,",
+    "startMs": 45260,
+    "endMs": 46440,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "what we do?",
+    "startMs": 46680,
+    "endMs": 47540,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "We do coding,",
+    "startMs": 47740,
+    "endMs": 48620,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "we do website development,",
+    "startMs": 48960,
+    "endMs": 50340,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "we do game dev.",
+    "startMs": 50580,
+    "endMs": 51820,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "CAD, 3D printing, even PCB design.",
+    "startMs": 52490,
+    "endMs": 55410,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "And you don't need to know",
+    "startMs": 55950,
+    "endMs": 56950,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "anything before you join.",
+    "startMs": 56950,
+    "endMs": 58930,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "We run workshops,",
+    "startMs": 59210,
+    "endMs": 60470,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "but you can also work on your own projects",
+    "startMs": 60890,
+    "endMs": 62910,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "through Hack Club programs.",
+    "startMs": 62910,
+    "endMs": 64130,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Some of these even offer rewards and grants",
+    "startMs": 64430,
+    "endMs": 67170,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "if you qualify,",
+    "startMs": 67170,
+    "endMs": 68130,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "such as a fully funded trip to China,",
+    "startMs": 68550,
+    "endMs": 70610,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "iPads, MacBooks, and a 3D printer.",
+    "startMs": 70850,
+    "endMs": 73830,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Supported by MIT, NASA, AMD, Dell,",
+    "startMs": 74430,
+    "endMs": 78130,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "and many other big names.",
+    "startMs": 78230,
+    "endMs": 79690,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Hack Club has distributed over $2 million",
+    "startMs": 80470,
+    "endMs": 83450,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "worth of rewards this past year.",
+    "startMs": 83450,
+    "endMs": 85670,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "So if you're a teenager in Quetta",
+    "startMs": 86410,
+    "endMs": 88030,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "and want to try making something,",
+    "startMs": 88030,
+    "endMs": 90150,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "come join us.",
+    "startMs": 90650,
+    "endMs": 91470,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "It's completely free to join",
+    "startMs": 91550,
+    "endMs": 93210,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "and you get free stuff.",
+    "startMs": 93210,
+    "endMs": 94750,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "And you'd be stupid if you don't.",
+    "startMs": 95250,
+    "endMs": 97090,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Join Hackistan.",
+    "startMs": 97090,
+    "endMs": 98370,
+    "timestampMs": null,
+    "confidence": null
+  }
+]

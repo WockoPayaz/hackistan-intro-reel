@@ -1,0 +1,617 @@
+{
+  "fps": 30,
+  "markers": [
+    {
+      "id": "scene-1.opening-note",
+      "kind": "pencil-drawing",
+      "frame": 4,
+      "durationFrames": 24
+    },
+    {
+      "id": "scene-1.headline-paper",
+      "kind": "paper-movement",
+      "frame": 16,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-1.hook",
+      "kind": "paper-movement",
+      "frame": 34,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-1.headline-washi",
+      "kind": "paper-movement",
+      "frame": 45,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-1.headline-washi.land",
+      "kind": "paper-land",
+      "frame": 66,
+      "durationFrames": 6
+    },
+    {
+      "id": "scene-1.headline-washi.tape-peel",
+      "kind": "tape-peel",
+      "frame": 70,
+      "durationFrames": 8
+    },
+    {
+      "id": "scene-1.headline-washi.tape-stick",
+      "kind": "tape-stick",
+      "frame": 82,
+      "durationFrames": 6
+    },
+    {
+      "id": "scene-1.quetta-mountains",
+      "kind": "pencil-drawing",
+      "frame": 105,
+      "durationFrames": 24
+    },
+    {
+      "id": "scene-1.quetta-label",
+      "kind": "paper-movement",
+      "frame": 144,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-1.quetta-label.land",
+      "kind": "paper-land",
+      "frame": 165,
+      "durationFrames": 6
+    },
+    {
+      "id": "scene-1.quetta-label.tape-peel",
+      "kind": "tape-peel",
+      "frame": 169,
+      "durationFrames": 8
+    },
+    {
+      "id": "scene-1.location",
+      "kind": "pencil-drawing",
+      "frame": 177,
+      "durationFrames": 24
+    },
+    {
+      "id": "scene-1.quetta-label.tape-stick",
+      "kind": "tape-stick",
+      "frame": 182,
+      "durationFrames": 6
+    },
+    {
+      "id": "scene-1.hackistan-mark",
+      "kind": "paper-movement",
+      "frame": 189,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-2.page-turn",
+      "kind": "page-turn",
+      "frame": 231,
+      "durationFrames": 15
+    },
+    {
+      "id": "scene-2.meet-note",
+      "kind": "pencil-drawing",
+      "frame": 240,
+      "durationFrames": 24
+    },
+    {
+      "id": "scene-2.logo-backing",
+      "kind": "paper-movement",
+      "frame": 246,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-2.logo-paper",
+      "kind": "paper-movement",
+      "frame": 251,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-2.logo-paper.land",
+      "kind": "paper-land",
+      "frame": 271,
+      "durationFrames": 6
+    },
+    {
+      "id": "scene-2.logo-paper.tape-peel",
+      "kind": "tape-peel",
+      "frame": 276,
+      "durationFrames": 8
+    },
+    {
+      "id": "scene-2.paperclip",
+      "kind": "paper-movement",
+      "frame": 285,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-2.logo-paper.tape-stick",
+      "kind": "tape-stick",
+      "frame": 288,
+      "durationFrames": 6
+    },
+    {
+      "id": "scene-2.student-led-note",
+      "kind": "paper-movement",
+      "frame": 294,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-2.hack-club-flag",
+      "kind": "paper-movement",
+      "frame": 359,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-2.community-letter",
+      "kind": "paper-movement",
+      "frame": 381,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-2.community-letter.land",
+      "kind": "paper-land",
+      "frame": 402,
+      "durationFrames": 6
+    },
+    {
+      "id": "scene-2.community-letter.tape-peel",
+      "kind": "tape-peel",
+      "frame": 407,
+      "durationFrames": 8
+    },
+    {
+      "id": "scene-2.community-letter.tape-stick",
+      "kind": "tape-stick",
+      "frame": 419,
+      "durationFrames": 6
+    },
+    {
+      "id": "scene-2.community-note",
+      "kind": "pencil-drawing",
+      "frame": 528,
+      "durationFrames": 24
+    },
+    {
+      "id": "scene-3.page-turn",
+      "kind": "page-turn",
+      "frame": 803,
+      "durationFrames": 15
+    },
+    {
+      "id": "scene-3.boba.move",
+      "kind": "paper-movement",
+      "frame": 817,
+      "durationFrames": 22
+    },
+    {
+      "id": "scene-3.boba.land",
+      "kind": "photo-land",
+      "frame": 839,
+      "durationFrames": 7
+    },
+    {
+      "id": "scene-3.boba.tape-peel",
+      "kind": "tape-peel",
+      "frame": 847,
+      "durationFrames": 10
+    },
+    {
+      "id": "scene-3.boba.tape-stick",
+      "kind": "tape-stick",
+      "frame": 861,
+      "durationFrames": 5
+    },
+    {
+      "id": "scene-3.boba-sticker",
+      "kind": "sticker-place",
+      "frame": 940,
+      "durationFrames": 20
+    },
+    {
+      "id": "scene-3.bake.move",
+      "kind": "paper-movement",
+      "frame": 978,
+      "durationFrames": 22
+    },
+    {
+      "id": "scene-3.bake.land",
+      "kind": "photo-land",
+      "frame": 999,
+      "durationFrames": 7
+    },
+    {
+      "id": "scene-3.bake.tape-peel",
+      "kind": "tape-peel",
+      "frame": 1008,
+      "durationFrames": 10
+    },
+    {
+      "id": "scene-3.bake.tape-stick",
+      "kind": "tape-stick",
+      "frame": 1022,
+      "durationFrames": 5
+    },
+    {
+      "id": "scene-3.cad-writing",
+      "kind": "pencil-drawing",
+      "frame": 1032,
+      "durationFrames": 20
+    },
+    {
+      "id": "scene-3.cad-arrow",
+      "kind": "pencil-drawing",
+      "frame": 1068,
+      "durationFrames": 20
+    },
+    {
+      "id": "scene-3.jame.move",
+      "kind": "paper-movement",
+      "frame": 1149,
+      "durationFrames": 22
+    },
+    {
+      "id": "scene-3.jame.land",
+      "kind": "photo-land",
+      "frame": 1170,
+      "durationFrames": 7
+    },
+    {
+      "id": "scene-3.jame.tape-peel",
+      "kind": "tape-peel",
+      "frame": 1179,
+      "durationFrames": 10
+    },
+    {
+      "id": "scene-3.jame.tape-stick",
+      "kind": "tape-stick",
+      "frame": 1193,
+      "durationFrames": 5
+    },
+    {
+      "id": "scene-3.godot",
+      "kind": "sticker-place",
+      "frame": 1263,
+      "durationFrames": 20
+    },
+    {
+      "id": "scene-3.footer",
+      "kind": "pencil-drawing",
+      "frame": 1293,
+      "durationFrames": 20
+    },
+    {
+      "id": "scene-4.page-turn",
+      "kind": "page-turn",
+      "frame": 1350,
+      "durationFrames": 15
+    },
+    {
+      "id": "scene-4.create-heading",
+      "kind": "paper-movement",
+      "frame": 1359,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-4.curiosity-note",
+      "kind": "pencil-drawing",
+      "frame": 1382,
+      "durationFrames": 24
+    },
+    {
+      "id": "scene-4.coding-note",
+      "kind": "paper-movement",
+      "frame": 1428,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-4.coding-note.land",
+      "kind": "paper-land",
+      "frame": 1449,
+      "durationFrames": 6
+    },
+    {
+      "id": "scene-4.coding-note.tape-peel",
+      "kind": "tape-peel",
+      "frame": 1454,
+      "durationFrames": 8
+    },
+    {
+      "id": "scene-4.web-note",
+      "kind": "paper-movement",
+      "frame": 1466,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-4.coding-note.tape-stick",
+      "kind": "tape-stick",
+      "frame": 1466,
+      "durationFrames": 6
+    },
+    {
+      "id": "scene-4.web-note.land",
+      "kind": "paper-land",
+      "frame": 1486,
+      "durationFrames": 6
+    },
+    {
+      "id": "scene-4.web-note.tape-peel",
+      "kind": "tape-peel",
+      "frame": 1491,
+      "durationFrames": 8
+    },
+    {
+      "id": "scene-4.web-note.tape-stick",
+      "kind": "tape-stick",
+      "frame": 1503,
+      "durationFrames": 6
+    },
+    {
+      "id": "scene-4.game-note",
+      "kind": "paper-movement",
+      "frame": 1512,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-4.game-lab",
+      "kind": "sticker-place",
+      "frame": 1544,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-4.cad-note",
+      "kind": "paper-movement",
+      "frame": 1566,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-4.printing-note",
+      "kind": "paper-movement",
+      "frame": 1584,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-4.pcb-note",
+      "kind": "paper-movement",
+      "frame": 1626,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-4.pcb-note.land",
+      "kind": "paper-land",
+      "frame": 1647,
+      "durationFrames": 6
+    },
+    {
+      "id": "scene-4.pcb-note.tape-peel",
+      "kind": "tape-peel",
+      "frame": 1651,
+      "durationFrames": 8
+    },
+    {
+      "id": "scene-4.pcb-orpheus",
+      "kind": "sticker-place",
+      "frame": 1658,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-4.pcb-note.tape-stick",
+      "kind": "tape-stick",
+      "frame": 1664,
+      "durationFrames": 6
+    },
+    {
+      "id": "scene-4.idea-arrow",
+      "kind": "pencil-drawing",
+      "frame": 1690,
+      "durationFrames": 24
+    },
+    {
+      "id": "scene-4.start-with-one",
+      "kind": "pencil-drawing",
+      "frame": 1728,
+      "durationFrames": 24
+    },
+    {
+      "id": "scene-5.page-turn",
+      "kind": "page-turn",
+      "frame": 1773,
+      "durationFrames": 15
+    },
+    {
+      "id": "scene-5.opportunities-heading",
+      "kind": "paper-movement",
+      "frame": 1782,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-5.workshop-checklist",
+      "kind": "paper-movement",
+      "frame": 1785,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-5.workshop-checklist.land",
+      "kind": "paper-land",
+      "frame": 1806,
+      "durationFrames": 6
+    },
+    {
+      "id": "scene-5.workshop-checklist.tape-peel",
+      "kind": "tape-peel",
+      "frame": 1811,
+      "durationFrames": 8
+    },
+    {
+      "id": "scene-5.heading-underline",
+      "kind": "pencil-drawing",
+      "frame": 1812,
+      "durationFrames": 24
+    },
+    {
+      "id": "scene-5.workshop-checklist.tape-stick",
+      "kind": "tape-stick",
+      "frame": 1823,
+      "durationFrames": 6
+    },
+    {
+      "id": "scene-5.construct-orpheus",
+      "kind": "sticker-place",
+      "frame": 1834,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-5.programs-paper",
+      "kind": "paper-movement",
+      "frame": 1855,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-5.programs-paper.land",
+      "kind": "paper-land",
+      "frame": 1877,
+      "durationFrames": 6
+    },
+    {
+      "id": "scene-5.programs-paper.tape-peel",
+      "kind": "tape-peel",
+      "frame": 1881,
+      "durationFrames": 8
+    },
+    {
+      "id": "scene-5.programs-paper.tape-stick",
+      "kind": "tape-stick",
+      "frame": 1893,
+      "durationFrames": 6
+    },
+    {
+      "id": "scene-5.portfolio-note",
+      "kind": "paper-movement",
+      "frame": 1898,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-5.eligible-rewards",
+      "kind": "paper-movement",
+      "frame": 1955,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-5.save-share-checklist",
+      "kind": "pencil-drawing",
+      "frame": 2345,
+      "durationFrames": 24
+    },
+    {
+      "id": "scene-5.ship",
+      "kind": "sticker-place",
+      "frame": 2393,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-5.make-and-share",
+      "kind": "pencil-drawing",
+      "frame": 2507,
+      "durationFrames": 24
+    },
+    {
+      "id": "scene-6.page-turn",
+      "kind": "page-turn",
+      "frame": 2580,
+      "durationFrames": 15
+    },
+    {
+      "id": "scene-6.expert-note",
+      "kind": "pencil-drawing",
+      "frame": 2589,
+      "durationFrames": 24
+    },
+    {
+      "id": "scene-6.closing-backing",
+      "kind": "paper-movement",
+      "frame": 2596,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-6.closing-logo",
+      "kind": "paper-movement",
+      "frame": 2602,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-6.closing-logo.land",
+      "kind": "paper-land",
+      "frame": 2624,
+      "durationFrames": 6
+    },
+    {
+      "id": "scene-6.closing-logo.tape-peel",
+      "kind": "tape-peel",
+      "frame": 2628,
+      "durationFrames": 8
+    },
+    {
+      "id": "scene-6.closing-logo.tape-stick",
+      "kind": "tape-stick",
+      "frame": 2640,
+      "durationFrames": 6
+    },
+    {
+      "id": "scene-6.next-build-message",
+      "kind": "paper-movement",
+      "frame": 2648,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-6.bring-an-idea",
+      "kind": "pencil-drawing",
+      "frame": 2692,
+      "durationFrames": 24
+    },
+    {
+      "id": "scene-6.cta-reveal",
+      "kind": "cta-reveal",
+      "frame": 2712,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-6.link-in-bio",
+      "kind": "pencil-drawing",
+      "frame": 2756,
+      "durationFrames": 24
+    },
+    {
+      "id": "scene-6.project-callback",
+      "kind": "paper-movement",
+      "frame": 2798,
+      "durationFrames": 18
+    },
+    {
+      "id": "scene-6.project-callback.land",
+      "kind": "photo-land",
+      "frame": 2818,
+      "durationFrames": 6
+    },
+    {
+      "id": "scene-6.project-callback.tape-peel",
+      "kind": "tape-peel",
+      "frame": 2823,
+      "durationFrames": 8
+    },
+    {
+      "id": "scene-6.project-callback.tape-stick",
+      "kind": "tape-stick",
+      "frame": 2835,
+      "durationFrames": 6
+    },
+    {
+      "id": "scene-6.yippee",
+      "kind": "sticker-place",
+      "frame": 2870,
+      "durationFrames": 18
+    }
+  ]
+}

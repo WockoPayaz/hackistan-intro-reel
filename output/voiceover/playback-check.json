@@ -1,0 +1,138 @@
+{
+  "check": "Complete real-time Chromium playback of final MP4, unmuted",
+  "elapsedWallSeconds": 100.57541914300236,
+  "samples": [
+    {
+      "time": 0.970505,
+      "duration": 99.8,
+      "ended": false,
+      "paused": false,
+      "error": null,
+      "width": 1080,
+      "height": 1920,
+      "decodedAudioBytes": 30917,
+      "totalFrames": 33,
+      "droppedFrames": 0
+    },
+    {
+      "time": 10.020297,
+      "duration": 99.8,
+      "ended": false,
+      "paused": false,
+      "error": null,
+      "width": 1080,
+      "height": 1920,
+      "decodedAudioBytes": 248792,
+      "totalFrames": 305,
+      "droppedFrames": 0
+    },
+    {
+      "time": 20.07867,
+      "duration": 99.8,
+      "ended": false,
+      "paused": false,
+      "error": null,
+      "width": 1080,
+      "height": 1920,
+      "decodedAudioBytes": 491232,
+      "totalFrames": 607,
+      "droppedFrames": 0
+    },
+    {
+      "time": 30.133816,
+      "duration": 99.8,
+      "ended": false,
+      "paused": false,
+      "error": null,
+      "width": 1080,
+      "height": 1920,
+      "decodedAudioBytes": 732403,
+      "totalFrames": 908,
+      "droppedFrames": 0
+    },
+    {
+      "time": 40.242704,
+      "duration": 99.8,
+      "ended": false,
+      "paused": false,
+      "error": null,
+      "width": 1080,
+      "height": 1920,
+      "decodedAudioBytes": 976776,
+      "totalFrames": 1212,
+      "droppedFrames": 0
+    },
+    {
+      "time": 50.30047,
+      "duration": 99.8,
+      "ended": false,
+      "paused": false,
+      "error": null,
+      "width": 1080,
+      "height": 1920,
+      "decodedAudioBytes": 1219616,
+      "totalFrames": 1513,
+      "droppedFrames": 0
+    },
+    {
+      "time": 60.343351,
+      "duration": 99.8,
+      "ended": false,
+      "paused": false,
+      "error": null,
+      "width": 1080,
+      "height": 1920,
+      "decodedAudioBytes": 1460620,
+      "totalFrames": 1815,
+      "droppedFrames": 0
+    },
+    {
+      "time": 70.392153,
+      "duration": 99.8,
+      "ended": false,
+      "paused": false,
+      "error": null,
+      "width": 1080,
+      "height": 1920,
+      "decodedAudioBytes": 1702040,
+      "totalFrames": 2116,
+      "droppedFrames": 0
+    },
+    {
+      "time": 80.446638,
+      "duration": 99.8,
+      "ended": false,
+      "paused": false,
+      "error": null,
+      "width": 1080,
+      "height": 1920,
+      "decodedAudioBytes": 1943241,
+      "totalFrames": 2418,
+      "droppedFrames": 0
+    },
+    {
+      "time": 90.492806,
+      "duration": 99.8,
+      "ended": false,
+      "paused": false,
+      "error": null,
+      "width": 1080,
+      "height": 1920,
+      "decodedAudioBytes": 2184785,
+      "totalFrames": 2719,
+      "droppedFrames": 0
+    }
+  ],
+  "final": {
+    "time": 99.8,
+    "duration": 99.8,
+    "ended": true,
+    "paused": true,
+    "error": null,
+    "width": 1080,
+    "height": 1920,
+    "decodedAudioBytes": 2376385,
+    "totalFrames": 2994,
+    "droppedFrames": 0
+  }
+}

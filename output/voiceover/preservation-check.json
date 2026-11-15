@@ -1,0 +1,14 @@
+{
+  "public/assets/audio/voiceover/hackistan-voiceover.wav": {
+    "unchanged": true,
+    "sha256": "c32f5929a213a33984d8e3be833643c674b96b7b6aa0e6dc84b5f6a1f830fd1e"
+  },
+  "output/reel/hackistan-reel.mp4": {
+    "unchanged": true,
+    "sha256": "27ce01476e403e724bccc760d5136c6e5d5f88c354c0b417525ff4042cb069ce"
+  },
+  "output/sfx/hackistan-reel-sfx.mp4": {
+    "unchanged": true,
+    "sha256": "06c73372e09c88270825a1164d5b74a06c8112c6f54c5acbda7c73ba38f136fd"
+  }
+}

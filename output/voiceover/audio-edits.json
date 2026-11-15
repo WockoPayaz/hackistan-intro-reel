@@ -1,0 +1,22 @@
+{
+  "source": "public/assets/audio/voiceover/hackistan-voiceover.wav",
+  "sourceDuration": 99.52991666666667,
+  "editedDuration": 98.77991666666667,
+  "cuts": [
+    {
+      "sourceStart": 7.76,
+      "sourceEnd": 8.16,
+      "removedSeconds": 0.40000000000000036,
+      "reason": "central portion of >1-second near-silent gap; breath and speech edges retained"
+    },
+    {
+      "sourceStart": 52.35,
+      "sourceEnd": 52.7,
+      "removedSeconds": 0.3500000000000014,
+      "reason": "central portion of >1-second near-silent gap; breath and speech edges retained"
+    }
+  ],
+  "totalRemovedSeconds": 0.7500000000000018,
+  "playbackRate": 1,
+  "processing": "5 ms ramps at silence edit edges only. No EQ, compression, denoising, pitch shift or voice replacement."
+}

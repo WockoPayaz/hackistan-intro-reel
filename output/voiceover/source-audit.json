@@ -1,0 +1,54 @@
+{
+  "source": "public/assets/audio/voiceover/hackistan-voiceover.wav",
+  "sha256": "c32f5929a213a33984d8e3be833643c674b96b7b6aa0e6dc84b5f6a1f830fd1e",
+  "durationSeconds": 99.52991666666667,
+  "sampleRate": 48000,
+  "bits": 16,
+  "channels": 2,
+  "identicalStereoChannels": true,
+  "fullScaleSamples": 0,
+  "samplePeakDbfs": -3.131274611076978,
+  "tenSecondRmsWindows": [
+    {
+      "fromSeconds": 0.0,
+      "rmsDbfs": -25.99
+    },
+    {
+      "fromSeconds": 10.0,
+      "rmsDbfs": -24.42
+    },
+    {
+      "fromSeconds": 20.0,
+      "rmsDbfs": -25.67
+    },
+    {
+      "fromSeconds": 30.0,
+      "rmsDbfs": -25.84
+    },
+    {
+      "fromSeconds": 40.0,
+      "rmsDbfs": -25.59
+    },
+    {
+      "fromSeconds": 50.0,
+      "rmsDbfs": -25.42
+    },
+    {
+      "fromSeconds": 60.0,
+      "rmsDbfs": -24.27
+    },
+    {
+      "fromSeconds": 70.0,
+      "rmsDbfs": -25.75
+    },
+    {
+      "fromSeconds": 80.0,
+      "rmsDbfs": -24.61
+    },
+    {
+      "fromSeconds": 90.0,
+      "rmsDbfs": -25.62
+    }
+  ],
+  "notes": "No clipped samples. Consistent 10-second RMS. Duplicate stereo channels retained. No need for aggressive dynamics processing."
+}

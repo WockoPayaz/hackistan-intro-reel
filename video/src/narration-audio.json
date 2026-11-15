@@ -1,0 +1,7 @@
+{
+  "voiceoverFile": "assets/audio/voiceover/hackistan-voiceover-edited.wav",
+  "voiceoverGain": 1.122018454,
+  "sfxMasterGain": 1.4,
+  "music": null,
+  "note": "Voice +1 dB only; no speed change or dynamics processing. Each Foley cue has an adjustable narrationGain, initially 0.36 (-8.87 dB), independent of the original SFX-only mix."
+}

@@ -1,0 +1,32 @@
+Input #0, wav, from 'output/voiceover/voiceover-and-sfx.wav':
+  Metadata:
+    encoder         : Lavf61.7.103
+  Duration: 00:01:39.80, bitrate: 2304 kb/s
+  Stream #0:0: Audio: pcm_s24le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s32 (24 bit), 2304 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (pcm_s24le (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+[Parsed_ebur128_0 @ 0x7f7d7c002500] t: 0.0999792  TARGET:-23 LUFS    M:-120.7 S:-120.7     I: -70.0 LUFS       LRA:   0.0 LU  FTPK: -51.9 -51.9 dBFS  TPK: -51.9 -51.9 dBFS
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.103
+  Stream #0:0: Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s
+
+[Periodic metering lines omitted; final measurement follows.]
+
+[Parsed_ebur128_0 @ 0x7f7d7c002500] Summary:
+
+  Integrated loudness:
+    I:         -20.9 LUFS
+    Threshold: -31.6 LUFS
+
+  Loudness range:
+    LRA:         3.6 LU
+    Threshold: -41.7 LUFS
+    LRA low:   -23.6 LUFS
+    LRA high:  -20.0 LUFS
+
+  True peak:
+    Peak:       -2.1 dBFS
+[out#0/null @ 0x563dd0e061c0] video:0KiB audio:18712KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:01:39.80 bitrate=N/A speed= 295x

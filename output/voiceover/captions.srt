@@ -1,0 +1,191 @@
+1
+00:00:00,000 --> 00:00:01,040
+Hi there guys,
+
+2
+00:00:02,580 --> 00:00:04,060
+You have probably seen our posts,
+
+3
+00:00:04,120 --> 00:00:05,340
+but you might be wondering,
+
+4
+00:00:05,840 --> 00:00:07,520
+what actually is Hackistan?
+
+5
+00:00:08,060 --> 00:00:10,380
+We're a student run Hack Club here in Quetta.
+
+6
+00:00:10,860 --> 00:00:11,900
+But you know what's interesting?
+
+7
+00:00:12,520 --> 00:00:13,560
+Hack Club is a network of
+
+8
+00:00:13,560 --> 00:00:15,640
+over 140,000 teens
+
+9
+00:00:15,640 --> 00:00:19,780
+in over 100 countries and 670 clubs.
+
+10
+00:00:20,400 --> 00:00:22,480
+We get together to learn new stuff
+
+11
+00:00:22,480 --> 00:00:24,640
+and well, make stuff
+
+12
+00:00:24,640 --> 00:00:26,420
+and return get prizes.
+
+13
+00:00:27,180 --> 00:00:28,180
+Like one of our members
+
+14
+00:00:28,180 --> 00:00:30,040
+made a website for Boba Drops.
+
+15
+00:00:30,140 --> 00:00:31,020
+And guess what?
+
+16
+00:00:31,060 --> 00:00:32,340
+We got free Boba.
+
+17
+00:00:32,720 --> 00:00:34,880
+We designed cookie cutters for BakeBuild.
+
+18
+00:00:34,940 --> 00:00:37,760
+We got 3D printed free cookie cutters.
+
+19
+00:00:37,820 --> 00:00:39,300
+And for Game Jam,
+
+20
+00:00:39,880 --> 00:00:41,460
+we made an entire game.
+
+21
+00:00:41,480 --> 00:00:42,700
+And guess what?
+
+22
+00:00:42,740 --> 00:00:44,640
+We got a free controller.
+
+23
+00:00:45,260 --> 00:00:46,440
+Now you might be wondering,
+
+24
+00:00:46,680 --> 00:00:47,540
+what we do?
+
+25
+00:00:47,740 --> 00:00:48,620
+We do coding,
+
+26
+00:00:48,960 --> 00:00:50,340
+we do website development,
+
+27
+00:00:50,580 --> 00:00:51,820
+we do game dev.
+
+28
+00:00:52,490 --> 00:00:55,410
+CAD, 3D printing, even PCB design.
+
+29
+00:00:55,950 --> 00:00:56,950
+And you don't need to know
+
+30
+00:00:56,950 --> 00:00:58,930
+anything before you join.
+
+31
+00:00:59,210 --> 00:01:00,470
+We run workshops,
+
+32
+00:01:00,890 --> 00:01:02,910
+but you can also work on your own projects
+
+33
+00:01:02,910 --> 00:01:04,130
+through Hack Club programs.
+
+34
+00:01:04,430 --> 00:01:07,170
+Some of these even offer rewards and grants
+
+35
+00:01:07,170 --> 00:01:08,130
+if you qualify,
+
+36
+00:01:08,550 --> 00:01:10,610
+such as a fully funded trip to China,
+
+37
+00:01:10,850 --> 00:01:13,830
+iPads, MacBooks, and a 3D printer.
+
+38
+00:01:14,430 --> 00:01:18,130
+Supported by MIT, NASA, AMD, Dell,
+
+39
+00:01:18,230 --> 00:01:19,690
+and many other big names.
+
+40
+00:01:20,470 --> 00:01:23,450
+Hack Club has distributed over $2 million
+
+41
+00:01:23,450 --> 00:01:25,670
+worth of rewards this past year.
+
+42
+00:01:26,410 --> 00:01:28,030
+So if you're a teenager in Quetta
+
+43
+00:01:28,030 --> 00:01:30,150
+and want to try making something,
+
+44
+00:01:30,650 --> 00:01:31,470
+come join us.
+
+45
+00:01:31,550 --> 00:01:33,210
+It's completely free to join
+
+46
+00:01:33,210 --> 00:01:34,750
+and you get free stuff.
+
+47
+00:01:35,250 --> 00:01:37,090
+And you'd be stupid if you don't.
+
+48
+00:01:37,090 --> 00:01:38,370
+Join Hackistan.

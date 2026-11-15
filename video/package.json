@@ -7,7 +7,10 @@
     "typecheck": "tsc --noEmit",
     "storyboards": "node scripts/render-storyboards.mjs",
     "prototype": "node scripts/render-prototype.mjs",
-    "reel": "node scripts/render-reel.mjs"
+    "reel": "node scripts/render-reel.mjs",
+    "voiceover": "node scripts/render-voiceover.mjs",
+    "voiceover:visuals": "node scripts/render-voiceover.mjs --visuals --video-only",
+    "voiceover:captions": "node scripts/render-caption-cards.mjs"
   },
   "dependencies": {
     "@remotion/cli": "4.0.543",

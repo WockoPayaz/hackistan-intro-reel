@@ -1,0 +1,44 @@
+[
+  {
+    "start": 1.42,
+    "end": 1.86,
+    "text": "",
+    "confirmed": true,
+    "reason": "Speaker confirmed the opening proceeds from Hi there guys to You have probably seen our posts; omit this low-confidence ASR insertion from captions only. Original audio retained."
+  },
+  {
+    "start": 15.76,
+    "end": 16.04,
+    "text": "teens",
+    "confirmed": true,
+    "reason": "Exact noun confirmed by the speaker."
+  },
+  {
+    "start": 88.36,
+    "end": 88.78,
+    "text": "Quetta",
+    "confirmed": true,
+    "reason": "Canonical spelling of the club location; ASR phonetic rendering Kuwaita."
+  },
+  {
+    "start": 94.72,
+    "end": 95.38,
+    "text": "free stuff.",
+    "confirmed": true,
+    "reason": "Exact phrase confirmed by the speaker."
+  },
+  {
+    "start": 98.28,
+    "end": 99.0,
+    "text": "Hackistan.",
+    "confirmed": true,
+    "reason": "Canonical club name in final CTA; ASR phonetic rendering Atesna."
+  },
+  {
+    "start": 2.58,
+    "end": 2.82,
+    "text": "You have",
+    "confirmed": true,
+    "reason": "Opening wording confirmed by the speaker."
+  }
+]
