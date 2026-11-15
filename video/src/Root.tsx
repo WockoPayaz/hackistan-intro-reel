@@ -2,9 +2,12 @@ import {Composition,Still} from 'remotion';
 import {Hook,Meet,Projects,Create,Opportunities,Join} from './scenes';
 import './style.css';
 import {FullReel} from './FullReel';
+import {SfxLayer} from './SfxLayer';
+const ReelWithSfx=()=> <><FullReel/><SfxLayer/></>;
 import {ProjectsPrototype} from './ProjectsPrototype';
 // Full silent Reel, approved storyboards, and retained Scene 3 motion prototype.
 export const Root=()=> <>
+ <Composition id="HackistanReelSfx" component={ReelWithSfx} width={1080} height={1920} fps={30} durationInFrames={1800}/>
  <Composition id="HackistanReel" component={FullReel} width={1080} height={1920} fps={30} durationInFrames={1800}/>
  <Composition id="Scene3Prototype" component={ProjectsPrototype} width={1080} height={1920} fps={30} durationInFrames={390}/>
  <Composition id="StoryboardPreview" component={Hook} width={1080} height={1920} fps={30} durationInFrames={30}/>

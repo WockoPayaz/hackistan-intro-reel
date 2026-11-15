@@ -68,3 +68,14 @@ See [ANIMATION_PROTOTYPE.md](ANIMATION_PROTOTYPE.md) for the motion review and e
 - Original image files, static storyboard PNGs and the standalone Scene 3 prototype output remain unchanged.
 - Voiceover/music paths are null; Foley map is empty. No audio files added or downloaded. Optional audio remains untested with supplied media because none has been supplied.
 - No merge into main. Cloud rendering succeeded; no fallback workflow needed.
+
+## Phase C — Foley review, 15 November 2026
+
+- Audited the repository before acquisition: no standalone sound assets; both pre-existing MP4s were video-only.
+- Retained 14 unique CC0 source files with source URLs, author/license records and SHA-256 hashes. Six are openly supplied HQ MP3 previews, six original WAVs and two lossless FLACs. See SFX_CATALOG.md for numbered-stationery substitution limits. No restricted-redistribution Mixkit/Pixabay assets were acquired.
+- Selected 32 of the available physical-event markers. Source trims, exact frame starts, short fades and individual/master gains are editable in `video/src/sfx-cues.json`. Cue bounds passed validation.
+- `npm run typecheck` passed. Rendered a separate 24-bit stereo Foley stem and muxed AAC into a new MP4 without re-encoding the approved video. Encoded video packet hashes match the silent original exactly. The original silent file is unchanged.
+- Final MP4: 60 seconds, 1080 × 1920, 30 FPS, 1800 H.264 frames, AAC stereo audio. Complete decoding passed. Encoded audio sample peak: −13.6 dBFS; mean −48.3 dBFS including intentional silence. No voiceover or music.
+- Chromium unmuted playback reached 60 seconds with no media errors, positive decoded audio bytes and zero dropped frames out of 1800.
+- No merge into main. This is a Foley listening-review version; some adhesive/sticker/stamp events use explicitly documented recorded stationery textures whose exact source objects are not identified.
+- The editable `HackistanReelSfx` Remotion composition also successfully rendered audio frames 0–210, exercising MP3, WAV and FLAC sources. Web Audio amplification is enabled for preview gains above unity.

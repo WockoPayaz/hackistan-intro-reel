@@ -1,6 +1,6 @@
 # Hackistan — scrapbook reel
 
-**Phase B2: full silent Reel ready for review.** [Watch/download the 60-second MP4](output/reel/hackistan-reel.mp4?raw=true). [Editing and future audio passes](docs/FULL_REEL.md). All work remains on `feature/hackistan-intro-reel`; main is unchanged.
+**Phase C: Foley review version.** [Watch/download the Reel with SFX](output/sfx/hackistan-reel-sfx.mp4?raw=true) · [Preserved silent version](output/reel/hackistan-reel.mp4?raw=true) · [Source/license catalog](docs/SFX_CATALOG.md). No voiceover or music has been added.
 
 ## Review in Chrome
 

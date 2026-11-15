@@ -1,0 +1,53 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'output/sfx/hackistan-reel-sfx.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.103
+    comment         : Made with Remotion 4.0.543
+  Duration: 00:01:00.00, start: 0.000000, bitrate: 1570 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuvj420p(pc, bt470bg/unknown/unknown, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 1501 kb/s, 30 fps, 30 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+      Side data:
+        ICC Profile
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 59 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+[Parsed_volumedetect_0 @ 0x55ed925984c0] n_samples: 0
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    comment         : Made with Remotion 4.0.543
+    encoder         : Lavf61.7.103
+  Stream #0:0(und): Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 pcm_s16le
+[Parsed_volumedetect_0 @ 0x7f79fc002400] n_samples: 5761024
+[Parsed_volumedetect_0 @ 0x7f79fc002400] mean_volume: -48.3 dB
+[Parsed_volumedetect_0 @ 0x7f79fc002400] max_volume: -13.6 dB
+[Parsed_volumedetect_0 @ 0x7f79fc002400] histogram_13db: 3
+[Parsed_volumedetect_0 @ 0x7f79fc002400] histogram_14db: 10
+[Parsed_volumedetect_0 @ 0x7f79fc002400] histogram_15db: 23
+[Parsed_volumedetect_0 @ 0x7f79fc002400] histogram_16db: 30
+[Parsed_volumedetect_0 @ 0x7f79fc002400] histogram_17db: 64
+[Parsed_volumedetect_0 @ 0x7f79fc002400] histogram_18db: 116
+[Parsed_volumedetect_0 @ 0x7f79fc002400] histogram_19db: 171
+[Parsed_volumedetect_0 @ 0x7f79fc002400] histogram_20db: 180
+[Parsed_volumedetect_0 @ 0x7f79fc002400] histogram_21db: 223
+[Parsed_volumedetect_0 @ 0x7f79fc002400] histogram_22db: 469
+[Parsed_volumedetect_0 @ 0x7f79fc002400] histogram_23db: 794
+[Parsed_volumedetect_0 @ 0x7f79fc002400] histogram_24db: 1208
+[Parsed_volumedetect_0 @ 0x7f79fc002400] histogram_25db: 1578
+[Parsed_volumedetect_0 @ 0x7f79fc002400] histogram_26db: 2008
+[out#0/null @ 0x55ed9240d400] video:0KiB audio:11252KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:01:00.01 bitrate=N/A speed=1.23e+03x    
