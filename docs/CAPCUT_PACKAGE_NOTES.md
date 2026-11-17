@@ -1,6 +1,6 @@
-Complete CapCut Desktop media handoff for the existing 99.8-second Hackistan Reel. The release tag points to `feature/hackistan-intro-reel`; no merge to main.
+Complete CapCut Desktop media handoff for the existing 99.8-second Hackistan Reel. The files remain on `feature/hackistan-intro-reel`; no merge to main.
 
-Download `Hackistan-CapCut-Editing-Package.zip`, extract it, and start with `00_START_HERE.md`.
+Download the four ordinary ZIP bundles linked from `output/capcut/README.md`, extract them, and start with `00_START_HERE.md`. No archive joining is required.
 
 Includes:
 - Latest 1080×1920, 30 FPS captioned master and caption-free master, both with synchronized voiceover/SFX.

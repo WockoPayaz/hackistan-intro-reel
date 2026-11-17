@@ -4,7 +4,7 @@ The current edit is **1080 × 1920, 30 FPS, 99.800 seconds (2,994 frames)**. Tim
 
 ## Start here
 
-1. Extract the entire ZIP. Create a **9:16, 30 FPS** CapCut project.
+1. Download and extract all four ordinary ZIP bundles. They can remain in separate folders; no archive-joining utility or terminal is needed. Folder paths below refer to the matching bundle. Create a **9:16, 30 FPS** CapCut project.
 2. Import `01_full_reel/02_Hackistan_No_Captions_VO_SFX.mp4` at **00:00:00:00**. It already contains the synchronized voiceover/SFX mix. Notebook headings, handwritten notes and project labels remain part of the artwork; only subtitle captions are absent.
 3. To adjust voice and Foley separately, **mute the MP4's audio**, then add both WAVs from `02_audio_stems/` at **00:00:00:00**. Leave their track gains at **0 dB / 100%** initially: the existing mix levels are already applied. Do not play the mixed MP4 audio and the stems together. Both stems are 48 kHz, 24-bit stereo and exactly 99.800 seconds, including silence/padding.
 4. Import `05_captions_and_timing/captions.srt` through CapCut's caption/subtitle import control (its label varies by version). Keep the import offset at zero. The original rendered caption look is visible in `01_full_reel/01_Hackistan_With_Captions_VO_SFX.mp4`.

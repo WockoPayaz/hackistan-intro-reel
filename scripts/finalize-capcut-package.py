@@ -11,6 +11,7 @@ for family,weight in [('barlow-condensed',800),('kalam',400),('dm-sans',500)]:
 for name in ['SFX_CATALOG.md','SFX_INVENTORY.json','STICKER_CURATION.md']:shutil.copy2(r/'docs'/name,fonts/name)
 # Keep relative source/license links useful within the source snapshot.
 src=out/'07_remotion_source'
+if src.exists():shutil.rmtree(src) # Generated snapshot only; refresh to avoid stale renamed files.
 for dirname in ['video/src','video/scripts','public','scripts','docs']:
  shutil.copytree(r/dirname,src/dirname,dirs_exist_ok=True,ignore=shutil.ignore_patterns('__pycache__'))
 for name in ['video/package.json','video/package-lock.json','video/tsconfig.json']:

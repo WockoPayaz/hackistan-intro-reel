@@ -2,7 +2,7 @@
 
 ## CapCut Desktop editing package
 
-[Download the complete editing ZIP](https://github.com/WockoPayaz/hackistan-intro-reel/releases/download/capcut-handoff-v1/Hackistan-CapCut-Editing-Package.zip) · [Import guide](docs/CAPCUT_HANDOFF.md) · [Asset preview](output/capcut/ASSET_PREVIEW.png)
+[Download the complete editing package (4 ZIPs)](output/capcut/README.md) · [Import guide](docs/CAPCUT_HANDOFF.md) · [Asset preview](output/capcut/ASSET_PREVIEW.png)
 
 Includes captioned and caption-free full-resolution masters, aligned WAV stems, six exact-duration scene clips, transparent artwork, SRT captions, desktop fonts and the editable source snapshot. Existing timing and animation are unchanged.
 
