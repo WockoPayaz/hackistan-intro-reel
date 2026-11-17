@@ -1,0 +1,26 @@
+[
+  {
+    "file": "01_Captioned_Master.zip",
+    "label": "Captioned master",
+    "bytes": 60321174,
+    "sha256": "694582afff4c3d9f46a688309a4058bf062871cb0b56929049c5176a9f55756b"
+  },
+  {
+    "file": "02_Caption_Free_Master.zip",
+    "label": "Caption-free master with VO + SFX",
+    "bytes": 70540669,
+    "sha256": "64b4a686dd75352023591372edca2f6d6722759595358c07b7c37ca3e635580d"
+  },
+  {
+    "file": "03_Animated_Scene_Clips.zip",
+    "label": "Six silent scene clips",
+    "bytes": 75129207,
+    "sha256": "0055ccf4d2dbffac8f215d387f10fc8342e662864b3d879bfeb0cdd24c0a3ee5"
+  },
+  {
+    "file": "04_Audio_Artwork_Captions_Source.zip",
+    "label": "WAV stems, artwork, captions, fonts and source",
+    "bytes": 63798105,
+    "sha256": "fe3afadb6d521acc2d3f8a6971caab3dacec0788cb1d506d2c41cbad11d6c65e"
+  }
+]
