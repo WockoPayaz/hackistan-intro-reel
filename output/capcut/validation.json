@@ -1,0 +1,98 @@
+{
+  "masters": {
+    "captionedByteIdentical": true,
+    "captionFreeVideoPacketsUnchanged": true,
+    "captionFreeAudioPacketsMatchLatestMix": true
+  },
+  "scenes": {
+    "count": 6,
+    "totalFrames": 2994,
+    "timeline": [
+      {
+        "scene": 1,
+        "title": "Hook",
+        "filename": "01_Hook_SILENT_NO_CAPTIONS.mp4",
+        "startFrame": 0,
+        "endFrameExclusive": 231,
+        "frames": 231,
+        "startSeconds": 0.0,
+        "endSeconds": 7.7,
+        "durationSeconds": 7.7
+      },
+      {
+        "scene": 2,
+        "title": "Meet Hackistan",
+        "filename": "02_Meet_Hackistan_SILENT_NO_CAPTIONS.mp4",
+        "startFrame": 231,
+        "endFrameExclusive": 803,
+        "frames": 572,
+        "startSeconds": 7.7,
+        "endSeconds": 26.766666666666666,
+        "durationSeconds": 19.066666666666666
+      },
+      {
+        "scene": 3,
+        "title": "Our Projects",
+        "filename": "03_Our_Projects_SILENT_NO_CAPTIONS.mp4",
+        "startFrame": 803,
+        "endFrameExclusive": 1350,
+        "frames": 547,
+        "startSeconds": 26.766666666666666,
+        "endSeconds": 45.0,
+        "durationSeconds": 18.233333333333334
+      },
+      {
+        "scene": 4,
+        "title": "What We Do",
+        "filename": "04_What_We_Do_SILENT_NO_CAPTIONS.mp4",
+        "startFrame": 1350,
+        "endFrameExclusive": 1773,
+        "frames": 423,
+        "startSeconds": 45.0,
+        "endSeconds": 59.1,
+        "durationSeconds": 14.1
+      },
+      {
+        "scene": 5,
+        "title": "Opportunities",
+        "filename": "05_Opportunities_SILENT_NO_CAPTIONS.mp4",
+        "startFrame": 1773,
+        "endFrameExclusive": 2580,
+        "frames": 807,
+        "startSeconds": 59.1,
+        "endSeconds": 86.0,
+        "durationSeconds": 26.9
+      },
+      {
+        "scene": 6,
+        "title": "Join Hackistan",
+        "filename": "06_Join_Hackistan_SILENT_NO_CAPTIONS.mp4",
+        "startFrame": 2580,
+        "endFrameExclusive": 2994,
+        "frames": 414,
+        "startSeconds": 86.0,
+        "endSeconds": 99.8,
+        "durationSeconds": 13.8
+      }
+    ]
+  },
+  "stems": {
+    "sampleRate": 48000,
+    "channels": 2,
+    "bits": 24,
+    "samplesPerChannel": 4790400,
+    "durationSeconds": 99.8,
+    "startSeconds": 0,
+    "maxSampleErrorVsExistingMix": 1.1920928955078125e-07
+  },
+  "artwork": {
+    "assets": 112,
+    "verifiedTransparentOverlayEntries": 102,
+    "unchangedArtwork": true
+  },
+  "sceneReconstruction": {
+    "comparedFrames": 2994,
+    "meanSSIM": 0.997779,
+    "note": "Six clips concatenated in order and compared frame-for-frame with the existing caption-free animation. Re-encoding only; timing and animation are unchanged."
+  }
+}

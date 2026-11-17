@@ -12,3 +12,10 @@ output/voiceover/voiceover-and-sfx.wav
 output/voiceover/caption-cards/
 output/voiceover/caption-concat.txt
 output/voiceover/review-*.png
+
+# Large editing-package deliverables are distributed as GitHub release assets.
+output/capcut/Hackistan-CapCut-Editing-Package/
+output/capcut/*.zip
+output/capcut/scene-concat.txt
+
+output/capcut/*.sha256
